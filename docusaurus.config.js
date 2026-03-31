@@ -48,7 +48,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
-          editUrl:'https://github.com/sm-dinesh/lwf-documentation',
+          editUrl:'https://github.com/sm-dinesh/lwf-documentation/blob/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
