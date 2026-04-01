@@ -2,9 +2,10 @@
 id: simple-procurement-index
 title: Simple Procurement
 sidebar_label: Simple Procurement
+sidebar_position: 3
 ---
 
-## 📄 Simple Procurement
+# Simple Procurement
 
 Simple Procurement is designed for low-value procurement processes, typically ranging from **€200 to €9,999**, where efficiency and speed are prioritized while maintaining transparency and accountability.
 
@@ -55,10 +56,16 @@ The Simple Procurement process follows these key steps:
 
 - Vendors can **sign and return documents electronically**  
 
+---
 
 ## 📂 Available Guides
 
-- [Create Tender](./simple-procurement-create)
+- [Create Procurement](./create)
+- [Edit Procurement](./edit)
+- [Evaluation Criteria](./update_evaluaton_criteria)
+- [Template Management](./template)
+- [Publish Procurement](./publish)
+- [Vendor Invitations](./simple-procurement-invitations)
 
 ---
 
@@ -69,4 +76,4 @@ Use this module when:
 - Procurement value is within **€200 – €9,999**  
 - Vendors are **pre-identified**  
 - A **quick and structured RFQ process** is sufficient  
-- Full tendering (open/negotiated) is not required  
+- Full tendering (open/negotiated) is not required

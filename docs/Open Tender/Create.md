@@ -1,54 +1,118 @@
 ---
-title: Create Open Tender
-sidebar_label: Create Open Tender
-sidebar_position: 0
+id: open-tender-create
+title: Open Tender – Create
+sidebar_label: Create Tender
 ---
 
 # Create Open Tender
 
-This page guides users through the **Open Tender creation process** in the Lwf eTender system. The dashboard and form interface are designed to ensure all necessary information is collected efficiently.
+This page guides users through the **Open Tender creation process** in the Lwf eTender system. The form is designed to collect all necessary information efficiently.
 
 ---
 
-## Dashboard Menu
+## 📍 Step 1: Navigate to Dashboard
 
 ![Open Tender Menu](/img/open_tender/open_tender_menu.png)
 
-- Navigate to **Open Tender** from the dashboard to access the list of open tenders or create a new one.
+- Navigate to **Open Tender** from the main dashboard
+- Access the list of open tenders or create a new one
 
 ---
 
-## Create Button
+## ➕ Step 2: Click Create Button
 
 ![Create Button](/img/open_tender/open_tender_create_button.png)
 
-- Click **Create** to start a new Open Tender entry.
+- Click **Create** to start a new Open Tender entry
 
 ---
 
-## Open Tender Creation Page
+## 📝 Step 3: Open Tender Creation Form
 
 ![Create Page](/img/open_tender/open_tender_create_page.png)
 
-The Open Tender creation form consists of **16 fields and actions**:
+The Open Tender creation form includes the following sections:
 
-1. **Tender Name** – Input the title of the tender.  
-2. **Demand Note Selection** – Select the associated demand note for the tender.  
-3. **Code Input** – Enter a unique tender code.  
-4. **Category Selection** – Choose the relevant category for the tender.  
-5. **Terms and Conditions** – Add terms and conditions applicable to the tender.  
-6. **Description** – Provide a detailed description of the tender.  
-7. **Published Date** – Set the date when the tender will be published.  
-8. **Submission Date** – Set the last date for bid submission.  
-9. **Opening Date** – Specify the date when bids will be opened.  
-10. **Published In / Published On** – Indicate the platform or publication channels where the tender will appear globally.  
-11. **Tender Document Upload by Bidder** – Check all required documents that bidders must upload.  
-12. **Tender File** – Upload the tender document that can be viewed by bidders.  
-13. **Select Criteria for Evaluation** – Choose the evaluation criteria for assessing bids.  
-14. **Select Template** – Choose the contract or award template for the tender.  
-15. **Save as Draft** – Save the tender without publishing.  
-16. **Save** – Save and publish the tender to make it active.
+### 🔹 Basic Information
+
+1. **Tender Name** – Input the title of the tender
+2. **Demand Note Selection** – Select the associated demand note
+3. **Code Input** – Enter a unique tender code for tracking
+4. **Category Selection** – Choose the relevant procurement category
 
 ---
 
-This page ensures users provide all required information for a successful **Open Tender creation**, while maintaining transparency and standardization across the procurement process.
+### 📄 Tender Details
+
+5. **Terms and Conditions** – Add terms and conditions applicable to the tender
+6. **Description** – Provide a detailed description of scope, requirements, and deliverables
+
+---
+
+### 📅 Important Dates
+
+7. **Published Date** – Set when the tender will be officially published
+8. **Submission Date** – Set the deadline for bid submission
+9. **Opening Date** – Specify when bids will be opened and reviewed
+
+**Important:** Ensure dates follow this sequence:
+- Published Date < Submission Date
+- Opening Date ≥ Submission Date
+
+---
+
+### 📢 Publication & Visibility
+
+10. **Published In / Published On** – Indicate the platforms or channels where the tender will be published globally
+
+---
+
+### 📋 Document Requirements
+
+11. **Tender Document Upload by Bidder** – Select which documents bidders must upload with their bids
+12. **Tender File** – Upload the tender document/specifications that bidders will reference
+
+---
+
+### ⚖️ Evaluation & Award
+
+13. **Select Criteria for Evaluation** – Choose the evaluation criteria for assessing bids
+14. **Select Template** – Choose the contract or award template for the tender
+
+---
+
+## 💾 Step 4: Save Tender
+
+15. **Save as Draft** – Save the tender without publishing (allows further edits)
+16. **Save** – Save and publish the tender to make it active and visible to bidders
+
+---
+
+## Next Steps
+
+After creating your Open Tender:
+
+1. **[Manage Templates](./template)** – Configure document templates for contract award
+2. **[Review Evaluation Criteria](./evaluation_criteria)** – Ensure evaluation criteria are properly configured
+3. **Monitor Bid Submissions** – Track submissions as they arrive
+4. **Evaluate Bids** – Use configured criteria to assess and score submissions
+5. **Award Contract** – Select the best-evaluated bid and issue award notice
+
+---
+
+## Important Notes
+
+✅ **Best Practices:**
+
+- Provide clear and detailed tender descriptions
+- Set realistic submission and opening dates
+- Choose appropriate and transparent evaluation criteria
+- Ensure compliance with procurement regulations
+- Review all details before publishing
+
+⚠️ **Post-Publishing:**
+
+- Some fields may become locked
+- Monitor submission deadlines
+- Maintain audit trails for all actions
+- Document all evaluation processes

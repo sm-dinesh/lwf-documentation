@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Lwf Documentation',
-  tagline: '',
+  title: 'Lwf eTender Documentation',
+  tagline: 'v1.0.0',
   favicon: 'https://lwfeprocurements.org/static/images/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

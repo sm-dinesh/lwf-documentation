@@ -1,15 +1,21 @@
 ---
 id: negotiated-tender-template-edit
-title: Negotiated Tender Template Management
+title: Negotiated Tender – Template Management
 sidebar_label: Template Management
 ---
 
-# Negotiated Tender Template Management
+# Template Management
 
 ## Overview
 
 The **Template Management** feature allows users to manage, edit, and download document templates associated with a Negotiated Tender.  
-Users can add new templates, edit existing templates, and generate documents with or without placeholder replacement.
+
+Users can:
+- Add new templates to a tender
+- Edit existing template details
+- View template placeholders
+- Generate documents with or without placeholder replacement
+- Download documents in multiple formats
 
 ---
 
@@ -26,16 +32,24 @@ Users can add new templates, edit existing templates, and generate documents wit
 
 ![Template List Page](/img/template/template_list_page.png)
 
-- Displays all templates linked to the tender  
-- Allows adding new templates or editing existing ones  
+The template list page displays:
+
+- All templates linked to the tender  
+- Template names and descriptions
+- Available actions for each template
+- Option to add new templates
 
 ---
 
 ## Adding a Template
 
+### Step 1: Click Add Template Button
+
 ![Add Template Button](/img/template/template_add_button.png)
 
-- Click the **Add Template** button to open the modal:
+- Click the **Add Template** button to open the selection modal
+
+### Step 2: Select Template and Add
 
 ![Add Template Modal](/img/template/template_add_modal.png)
 
@@ -55,13 +69,15 @@ For each template, the following actions are available:
 1. **Edit Action Button** – Opens the template edit options  
 2. **Edit Button** – Edit the template details  
 3. **Placeholder Button** – View placeholders used in the template  
-4. **Download Template** – Download the raw Word document without placeholder replacement  
+4. **Download Template** – Download the raw template without placeholder replacement  
 5. **Download Word** – Download Word document with placeholders replaced  
-6. **Download PDF** – Download PDF version of the template with placeholder replacement  
+6. **Download PDF** – Download PDF document with placeholders replaced  
 
 ---
 
 ## Editing a Template
+
+### Step 1: Click Edit Action
 
 ![Edit Template Modal](/img/template/template_edit_modal.png)
 
@@ -70,24 +86,53 @@ Inside the edit modal:
 1. **Template Name Edit** – Modify the template title  
 2. **Open Editor Button** – Launch the template editor window  
 
----
-
-## Template Editor Window
+### Step 2: Use Template Editor
 
 ![Template Editor Window](/img/template/template_editor_window.png)
 
-- A new popup window opens for editing the template  
-- The **main window is locked** until the editor popup is closed  
+- A new popup window opens for editing the template content
+- The **main tender window is locked** until the editor is closed
+- Make your edits in the editor window
+
+### Step 3: Save Changes
 
 ![Locked Main Window](/img/template/template_editor_locked_screen.png)
+
+- Save all changes in the editor window
+- Close the editor to unlock the main window
+- Changes are reflected in the tender
+
+---
+
+## Download Options
+
+### Download Formats Available
+
+- **Raw Template** – Original Word document without any replacements
+- **Word with Replacements** – Word document with placeholders filled
+- **PDF with Replacements** – PDF version of completed template
 
 ---
 
 ## Important Notes
 
-- The main tender edit page is **locked** while the template editor is open  
-- Changes must be saved in the editor to reflect in the tender  
-- Download options allow generating documents either with placeholders or final content  
-- Users should ensure templates are accurate before linking or downloading  
+⚠️ **Editor Behavior:**
+- The main tender edit page is **locked** while the template editor is open
+- You must close the editor popup to continue working on the tender
+- Unsaved changes in the editor may be lost
+
+✅ **Best Practices:**
+- Review templates before entering negotiation phase
+- Test placeholder replacements
+- Use appropriate download format for your needs
+- Keep template names clear and descriptive
+- Verify completeness before using in final contracts
 
 ---
+
+## Next Steps
+
+1. **[Configure Evaluation Criteria](./evaluation_criteria)** – Set up evaluation parameters
+2. **[Tender Review & Publishing](./Create)** – Finalize tender details
+3. **Begin Negotiations** – Engage with selected suppliers
+4. **Document Management** – Use templates for contract execution

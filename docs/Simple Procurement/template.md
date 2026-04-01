@@ -1,15 +1,21 @@
 ---
 id: simple-procurement-template-edit
-title: Simple Procurement Template Management
+title: Simple Procurement – Template Management
 sidebar_label: Template Management
 ---
 
-# Simple Procurement Template Management
+# Template Management
 
 ## Overview
 
 The **Template Management** feature allows users to manage, edit, and download document templates associated with a Simple Procurement.  
-Users can add new templates, edit existing templates, and generate documents with or without placeholder replacement.
+
+Users can:
+- Add new templates to a procurement
+- Edit existing template details
+- View template placeholders
+- Generate documents with or without placeholder replacement
+- Download documents in multiple formats
 
 ---
 
@@ -26,16 +32,24 @@ Users can add new templates, edit existing templates, and generate documents wit
 
 ![Template List Page](/img/template/template_list_page.png)
 
-- Displays all templates linked to the procurement  
-- Allows adding new templates or editing existing ones  
+The template list page displays:
+
+- All templates linked to the procurement  
+- Template names and descriptions
+- Available actions for each template
+- Option to add new templates
 
 ---
 
 ## Adding a Template
 
+### Step 1: Click Add Template Button
+
 ![Add Template Button](/img/template/template_add_button.png)
 
-- Click the **Add Template** button to open the modal:
+- Click the **Add Template** button to open the selection modal
+
+### Step 2: Select Template and Add
 
 ![Add Template Modal](/img/template/template_add_modal.png)
 
@@ -55,13 +69,15 @@ For each template, the following actions are available:
 1. **Edit Action Button** – Opens the template edit options  
 2. **Edit Button** – Edit the template details  
 3. **Placeholder Button** – View placeholders used in the template  
-4. **Download Template** – Download the raw Word document without placeholder replacement  
+4. **Download Template** – Download the raw template without placeholder replacement  
 5. **Download Word** – Download Word document with placeholders replaced  
-6. **Download PDF** – Download PDF version of the template with placeholder replacement  
+6. **Download PDF** – Download PDF document with placeholders replaced  
 
 ---
 
 ## Editing a Template
+
+### Step 1: Click Edit Action
 
 ![Edit Template Modal](/img/template/template_edit_modal.png)
 
@@ -70,24 +86,52 @@ Inside the edit modal:
 1. **Template Name Edit** – Modify the template title  
 2. **Open Editor Button** – Launch the template editor window  
 
----
-
-## Template Editor Window
+### Step 2: Use Template Editor
 
 ![Template Editor Window](/img/template/template_editor_window.png)
 
-- A new popup window opens for editing the template  
-- The **main window is locked** until the editor popup is closed  
+- A new popup window opens for editing the template content
+- The **main procurement window is locked** until the editor is closed
+- Make your edits in the editor window
+
+### Step 3: Save Changes
 
 ![Locked Main Window](/img/template/template_editor_locked_screen.png)
+
+- Save all changes in the editor window
+- Close the editor to unlock the main window
+- Changes are reflected in the procurement
+
+---
+
+## Download Options
+
+### Download Formats Available
+
+- **Raw Template** – Original Word document without any replacements
+- **Word with Replacements** – Word document with placeholders filled
+- **PDF with Replacements** – PDF version of completed template
 
 ---
 
 ## Important Notes
 
-- The main procurement edit page is **locked** while the template editor is open  
-- Changes must be saved in the editor to reflect in the procurement  
-- Download options allow generating documents either with placeholders or final content  
-- Users should ensure templates are accurate before linking or downloading  
+⚠️ **Editor Behavior:**
+- The main procurement edit page is **locked** while the template editor is open
+- You must close the editor popup to continue working on the procurement
+- Unsaved changes in the editor may be lost
+
+✅ **Best Practices:**
+- Review templates before publishing
+- Test placeholder replacements
+- Use appropriate download format for your needs
+- Keep template names clear and descriptive
+- Verify completeness before using in awards
 
 ---
+
+## Next Steps
+
+1. **[Configure Evaluation Criteria](./update_evaluaton_criteria)** – Set up bid evaluation
+2. **[Publish Procurement](./publish)** – Make the procurement active
+3. **[Invite Vendors](./simple-procurement-invitations)** – Start the vendor selection process
