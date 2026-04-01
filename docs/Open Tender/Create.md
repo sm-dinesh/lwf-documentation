@@ -1,6 +1,7 @@
 ---
 title: Create Open Tender
 sidebar_label: Create Open Tender
+sidebar_position: 0
 ---
 
 # Create Open Tender
