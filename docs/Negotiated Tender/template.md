@@ -1,21 +1,21 @@
 ---
-id: simple-procurement-template-edit
-title: Simple Procurement Template Management
+id: negotiated-tender-template-edit
+title: Negotiated Tender Template Management
 sidebar_label: Template Management
 ---
 
-# Simple Procurement Template Management
+# Negotiated Tender Template Management
 
 ## Overview
 
-The **Template Management** feature allows users to manage, edit, and download document templates associated with a Simple Procurement.  
+The **Template Management** feature allows users to manage, edit, and download document templates associated with a Negotiated Tender.  
 Users can add new templates, edit existing templates, and generate documents with or without placeholder replacement.
 
 ---
 
 ## Accessing Template Management
 
-1. Open the Simple Procurement **Edit Page**  
+1. Open the Negotiated Tender **Edit Page**  
 2. Click on the **Template Button** to access the template list
 
 ![Edit Page Template Button](/img/template/template_edit_button.png)
@@ -26,7 +26,7 @@ Users can add new templates, edit existing templates, and generate documents wit
 
 ![Template List Page](/img/template/template_list_page.png)
 
-- Displays all templates linked to the procurement  
+- Displays all templates linked to the tender  
 - Allows adding new templates or editing existing ones  
 
 ---
@@ -42,7 +42,7 @@ Users can add new templates, edit existing templates, and generate documents wit
 Inside the modal:
 
 1. **Select Dropdown** – Choose a template from the available list  
-2. **Add Button** – Click to link the selected template to the procurement  
+2. **Add Button** – Click to link the selected template to the tender  
 
 ---
 
@@ -85,8 +85,8 @@ Inside the edit modal:
 
 ## Important Notes
 
-- The main procurement edit page is **locked** while the template editor is open  
-- Changes must be saved in the editor to reflect in the procurement  
+- The main tender edit page is **locked** while the template editor is open  
+- Changes must be saved in the editor to reflect in the tender  
 - Download options allow generating documents either with placeholders or final content  
 - Users should ensure templates are accurate before linking or downloading  
 
