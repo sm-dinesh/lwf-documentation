@@ -1,7 +1,7 @@
 ---
 id: simple-procurement-create
-title: Simple Procurement – Create Tender
-sidebar_label: Create Tender
+title: Simple Procurement – Create
+sidebar_label: Create Procurement
 ---
 
 ## 📄 Simple Procurement – Create Tender
