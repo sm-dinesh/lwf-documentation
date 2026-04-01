@@ -15,7 +15,7 @@ The **Demand Note Details** page allows users to view all the information entere
 
 ## Overview
 
-![Demand Note Details](../../static/img/demand_note/demand_note_details.png)
+![Demand Note Details](/img/demand_note/demand_note_details.png)
 
 The details page displays all the information organized into multiple tabs for better readability and management.
 

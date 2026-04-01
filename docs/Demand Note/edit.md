@@ -16,14 +16,14 @@ The **Edit Demand Note** page allows users to modify an existing demand note. Us
 
 ## Overview
 
-![Edit Demand Note](../../static/img/demand_note/demand_note_edit.png)
+![Edit Demand Note](/img/demand_note/demand_note_edit.png)
 
 This page provides editable fields for updating the demand note. All previously entered data is pre-filled for convenience.
 
 ## Editable Sections
 
 ### Budget Details
-- Users can update the budget-related information associated with the demand note.
+- Users can view the budget-related information associated with the demand note.
 
 ### Other Information
 - All fields entered during the creation of the demand note can be modified as needed.
