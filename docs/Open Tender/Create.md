@@ -14,7 +14,7 @@ This page guides users through the **Open Tender creation process** in the Lwf e
 
 ![Open Tender Menu](/img/open_tender/open_tender_menu.png)
 
-- Navigate to **Open Tender** from the main dashboard
+- Navigate to **Open Tender Procedures** from the main dashboard
 - Access the list of open tenders or create a new one
 
 ---
@@ -74,7 +74,7 @@ The Open Tender creation form includes the following sections:
 
 ---
 
-### ⚖️ Evaluation & Award
+### ⚖️ Evaluation Criteria
 
 13. **Select Criteria for Evaluation** – Choose the evaluation criteria for assessing bids
 14. **Select Template** – Choose the contract or award template for the tender
@@ -92,7 +92,7 @@ The Open Tender creation form includes the following sections:
 
 After creating your Open Tender:
 
-1. **[Manage Templates](./template)** – Configure document templates for contract award
+1. **[Manage Templates](./template.md)** – Configure document templates for contract award
 2. **[Review Evaluation Criteria](./evaluation_criteria)** – Ensure evaluation criteria are properly configured
 3. **Monitor Bid Submissions** – Track submissions as they arrive
 4. **Evaluate Bids** – Use configured criteria to assess and score submissions

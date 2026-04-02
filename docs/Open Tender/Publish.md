@@ -1,7 +1,7 @@
 ---
 id: open-tender-publish
 title: Open Tender – Publish
-sidebar_label: Publish Tender
+sidebar_label: Publish Draft Tender
 ---
 
 # Publish Open Tender
@@ -11,23 +11,27 @@ sidebar_label: Publish Tender
 After creating an Open Tender, it is saved in a **Draft** state by default.  
 In this state, the tender is not visible to bidders and cannot receive bids.
 
+![Draft Tender](/img/open_tender/open_tender_draft.png)
+
 To make the tender active and visible to the market, it must be **published**.
-
----
-
-## Accessing the Publish Button
-
-At the top of the tender detail page, you will find the **Publish** button.  
-This button is only available when the tender is in Draft status.
 
 ---
 
 ## Steps to Publish
 
-1. Open the Open Tender record in **Draft** status
+1. Click on **Edit** to edit Tender record in **Draft** status
 2. Navigate to the top of the page  
 3. Click on the **Publish** button  
 4. Confirm the action if a confirmation prompt appears  
+
+---
+
+## Accessing the Publish Button
+
+![Draft Tender](/img/open_tender/open_tender_draft_publish.png)
+
+At the top of the tender detail page, you will find the **Publish** button.  
+This button is only available when the tender is in Draft status.
 
 ---
 

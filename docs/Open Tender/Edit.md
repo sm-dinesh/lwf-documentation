@@ -11,6 +11,8 @@ sidebar_label: Edit Tender
 The **Edit** page allows users to update details of an existing Open Tender.  
 This is typically used when corrections or updates are required before or after publishing.
 
+![Edit Tender](/img/open_tender/open_tender_edit.png)
+
 ---
 
 ## Editable Fields
@@ -20,33 +22,36 @@ The following fields are available for editing:
 1. **Name**  
    Update the tender title to better reflect the scope or requirements
 
-2. **Category**  
-   Select or modify the procurement category (e.g., Goods, Services, Works)
+2. **Code**  
+   Update the unique tender code (if editing before publishing)
 
-3. **Description**  
-   Update the detailed description of tender scope and requirements
+3. **Category**  
+   Select or modify the procurement category (e.g., Goods, Services, Works)
 
 4. **Terms and Conditions**  
    Define or revise the rules, requirements, and obligations for bidders
 
-5. **Published Date**  
+5. **Description**  
+   Update the detailed description of tender scope and requirements
+
+6. **Published Date**  
    Set or adjust the date when the tender becomes officially published
 
-6. **Submission Date**  
+7. **Submission Date**  
    Specify the deadline for bidders to submit their proposals
 
-7. **Opening Date**  
+8. **Opening Date**  
    Define the date when submitted bids will be opened and reviewed
-
-8. **Code**  
-   Update the unique tender code (if editing before publishing)
 
 9. **Published In / Published On**  
    Indicate the platforms or channels where the tender is published
 
 10. **Update Note** *(Required)*  
-    Provide a reason or description for the changes made  
-    This ensures proper tracking and audit history of updates
+   Provide a reason or description for the changes made  
+   This ensures proper tracking and audit history of updates
+
+11. **Update Note**  
+   Note to present the reason to update the tender
 
 ---
 
