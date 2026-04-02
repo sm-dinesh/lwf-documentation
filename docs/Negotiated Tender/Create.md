@@ -86,7 +86,7 @@ Fill in the following fields carefully:
 
 ### 📋 Additional Information
 
-10. **Published In Published On**  
+10. **Published In**  
     Indicate the platforms where the tender will appear
 
 11. **Published On**  
