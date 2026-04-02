@@ -30,14 +30,14 @@ const config = {
   organizationName: 'Studio Matrix', // Usually your GitHub org/user name.
   projectName: 'lwf-etender', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'fr', 'es', 'uk', 'ar'],
   },
 
   presets: [
@@ -49,6 +49,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
           editUrl:'https://github.com/sm-dinesh/lwf-documentation/blob/main/',
+          exclude: ['**/*.test.{js,jsx,ts,tsx}', '**/__tests__/**'],
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -77,10 +78,15 @@ const config = {
       navbar: {
         title: 'Lwf Documentation',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Lwf Documentation',
           src: 'https://lwfeprocurements.org/static/images/logo.png',
         },
-        items: [],
+        items: [
+          {
+            type: 'localeDropdown',
+            position: 'left',
+          },
+        ],
       },
       footer: {},
       prism: {
