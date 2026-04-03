@@ -1,4 +1,4 @@
----
+<!-- ---
 id: negotiated-tender-bid-invitations
 title: Negotiated Tender – Bid Invitations  
 sidebar_label: Bid Invitations
@@ -181,4 +181,4 @@ After sending invitations:
 | Participation Model | By invitation only | Open to all |
 | Communication | Direct & ongoing | Formal notices only |
 | Process | Flexible & collaborative | Fixed & competitive |
-| Goal | Best-fit partnership | Best-evaluated bid |
+| Goal | Best-fit partnership | Best-evaluated bid | -->

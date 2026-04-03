@@ -1,4 +1,4 @@
----
+<!-- ---
 id: negotiated-tender-publish
 title: Negotiated Tender – Publish
 sidebar_label: Publish Tender
@@ -110,4 +110,4 @@ After publishing your tender:
 | Proposal Submission | Direct invitation required | Can participate openly |
 | Timeline | Flexible, negotiable | Fixed |
 | Communication | Direct, ongoing | Formal, limited |
-| Goal | Best fit agreement | Best evaluated bid |
+| Goal | Best fit agreement | Best evaluated bid | -->

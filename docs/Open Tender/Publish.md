@@ -1,4 +1,4 @@
----
+<!-- ---
 id: open-tender-publish
 title: Open Tender – Publish
 sidebar_label: Publish Draft Tender
@@ -88,4 +88,4 @@ After publishing your tender:
 | Bid Submission | Not possible | Open for bids |
 | Editing | Full flexibility | Some restrictions |
 | Timeline | Can be extended | Deadline is firm |
-| Status | Flexible | Committed |
+| Status | Flexible | Committed | -->

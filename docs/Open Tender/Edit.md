@@ -1,4 +1,4 @@
----
+<!-- ---
 id: open-tender-edit
 title: Open Tender – Edit
 sidebar_label: Edit Tender
@@ -95,4 +95,4 @@ While editing, you can also:
 
 1. **[Publish Tender](./publish)** – Make the tender active (if in Draft status)
 2. **[Manage Bid Invitations](./open-tender-bid-invitations)** – Invite bidders (if needed)
-3. **[View Template Settings](./template)** – Configure document templates
+3. **[View Template Settings](./template)** – Configure document templates -->
