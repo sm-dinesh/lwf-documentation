@@ -1,4 +1,4 @@
-<!-- ---
+---
 id: negotiated-tender-create
 title: Negotiated Tender – Create
 sidebar_label: Create Tender
@@ -125,4 +125,4 @@ After creating your Negotiated Tender, you can:
 
 - **[Edit the Tender](./Edit)** – Make changes if needed before or after publishing
 - **[Manage Templates](./template)** – Add or edit contract templates
-- **[Configure Evaluation Criteria](./evaluation_criteria)** – Set up bid evaluation parameters -->
+- **[Configure Evaluation Criteria](./evaluation_criteria)** – Set up bid evaluation parameters
