@@ -86,20 +86,20 @@ The Open Tender creation form includes the following sections:
 15. **Save as Draft** – Save the tender without publishing (allows further edits)
 16. **Save** – Save and publish the tender to make it active and visible to bidders
 
+--- 
+## Criteria
+
+Criterias are used to evaluate tender bids based on different parameters. These evaluation points help assess and compare bids effectively during the tendering process.
+
+For each tender, bids are assessed under three processes; namely: administrative, technical and financial. For assessment, each process required evaluation parameters which are defined in criteria.
+
+![Create Page](/img/open_tender/open_tender_criteria.png)
+
+Checkbox the boxes to mark them as the evaluation parameter for the particular process.
+
+**Note** - Bid Price and Financial Offer are compulsory for Financial Criteria so they need to be checked. 
+
 ---
-
-## Next Steps
-
-After creating your Open Tender:
-
-1. **[Manage Templates](./template.md)** – Configure document templates for contract award
-2. **[Review Evaluation Criteria](./evaluation_criteria)** – Ensure evaluation criteria are properly configured
-3. **Monitor Bid Submissions** – Track submissions as they arrive
-4. **Evaluate Bids** – Use configured criteria to assess and score submissions
-5. **Award Contract** – Select the best-evaluated bid and issue award notice
-
----
-
 ## Important Notes
 
 ✅ **Best Practices:**
@@ -116,3 +116,15 @@ After creating your Open Tender:
 - Monitor submission deadlines
 - Maintain audit trails for all actions
 - Document all evaluation processes
+
+---
+
+## Next Steps
+
+After creating your Open Tender:
+
+1. **[Manage Templates](./template.md)** – Configure document templates for contract award
+2. **[Review Evaluation Criteria](./evaluation_criteria)** – Ensure evaluation criteria are properly configured
+3. **Monitor Bid Submissions** – Track submissions as they arrive
+4. **Evaluate Bids** – Use configured criteria to assess and score submissions
+5. **Award Contract** – Select the best-evaluated bid and issue award notice
