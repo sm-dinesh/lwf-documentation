@@ -76,8 +76,8 @@ The Open Tender creation form includes the following sections:
 
 ### ⚖️ Evaluation Criteria
 
-13. **Select Criteria for Evaluation** – Choose the evaluation criteria for assessing bids
-14. **Select Template** – Choose the contract or award template for the tender
+13. **Select Criteria for Evaluation** – Choose the evaluation criteria for assessing bids ([**Add Criteria**](#add-criteria))
+14. **Select Template** – Choose the contract or award template for the tender([**Add Template**](#add-template))
 
 ---
 
@@ -87,7 +87,7 @@ The Open Tender creation form includes the following sections:
 16. **Save** – Save and publish the tender to make it active and visible to bidders.
 
 --- 
-## Criteria
+## Add Criteria {#add-criteria}
 
 Criterias are used to evaluate tender bids based on different parameters. These evaluation points help assess and compare bids effectively during the tendering process.
 
@@ -98,6 +98,19 @@ For each tender, bids are assessed under three processes; namely: administrative
 Checkbox the boxes to mark them as the evaluation parameter for the particular process.
 
 **Note** - Bid Price and Financial Offer are compulsory for Financial Criteria so they need to be checked. 
+
+--- 
+## Add Template {#add-template}
+
+The **Templates** section allows users to manage, edit, and remove document templates associated with an Open Tender.
+
+![Create Page](/img/open_tender/open_tender_templates.png)
+
+**Click** on the templates dropdown and a list of the templates will be populated. On selection of any option from the available list, the template will be automatically added. The added template can be edited as well as removed also.
+
+![Create Page](/img/open_tender/open_tender_templates_add.png)
+
+**Note** - Templates added during tender creation can be edited later from tender edit section.
 
 ---
 ## Important Notes
