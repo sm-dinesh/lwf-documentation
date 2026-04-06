@@ -84,7 +84,7 @@ The Open Tender creation form includes the following sections:
 ## 💾 Step 4: Save Tender
 
 15. **Save as Draft** – Save the tender without publishing (allows further edits)
-16. **Save** – Save and publish the tender to make it active and visible to bidders
+16. **Save** – Save and publish the tender to make it active and visible to bidders.
 
 --- 
 ## Criteria
