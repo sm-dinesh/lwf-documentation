@@ -54,10 +54,16 @@ This form is used to evaluate each bid based on administrative criteria.
 
 ---
 
+## Acceptance Rules
+
+- **All the criterion must be marked as "Yes"** to accept a bid.
+- **Evaluator Remarks** is required prior before submitting the evaluation.
+
 ## Rejection Rules
 
 - At least **one criterion must be marked as "No"** to reject a bid.
 - A **rejection reason is mandatory** before submitting rejection.
+- **Evaluator Remarks** is required prior before submitting the evaluation.
 
 ---
 
