@@ -35,7 +35,7 @@ Configure the evaluation team:
 ### 3. Financial Evaluation Member
 - Select financial evaluator(s).
 
-### 4. Evaluation Note
+### 4. Update Notes
 - Add notes for team selection or updates.
 
 ### 5. Update Button
@@ -43,6 +43,8 @@ Configure the evaluation team:
 
 ### 6. Cancel Button
 - Closes the modal without saving.
+
+**Note** - The list of members listed here are managed from **Settings > Management Teams > Evaluation**
 
 ---
 

@@ -61,6 +61,40 @@ All bids must be successfully opened before proceeding to evaluation.
 
 ---
 
+## Things to consider for evaluation
+
+To manage the evaluation flow effectively within a procurement or tender system, the logic must enforce strict state transitions. Below is a breakdown of how to structure this logic for the Administrative, Technical, and Financial stages.
+
+Evaluation Logic Flow
+1. **Stage Sequencing**
+The process must be linear. A bid cannot enter the Technical stage until the Administrative evaluation is fully complete, and it cannot enter Financial until the Technical stage is closed.
+
+- **Administrative Stage:** Initial vetting of documents.
+
+- **Technical Stage:** Scoring based on specifications and expertise.
+
+- **Financial Stage:** Comparison of bid prices and commercial terms.
+
+2. **Member Management Rules**
+The ability to add or modify committee members is tied directly to the progress of the current stage:
+
+- **The "Open" Window:** You can only add members to a group (e.g., the Technical Committee) if at least one member has not yet submitted their evaluation for that specific stage.
+
+- **The "Lock" Mechanism:** As soon as the final member hits "Submit" for a stage, the system trigger a status update.
+
+- **Immutability:** Once the stage status is marked complete, the member list for that stage is locked. You cannot add, remove, or change members for a previous stage once the process has advanced.
+
+3. **Dynamic Score Validation**
+The integrity of the total score is dependent on the active status of the evaluator.
+
+- **Removal Consequences:** If a member has already submitted their evaluation but is removed from the evaluation list before the stage is locked, their score is immediately excluded from the final calculation.
+
+- **Eligibility Check:** The system should only aggregate scores from users who remain on the active evaluation list.
+
+- **Auto-Progression Logic:** Removing a member reduces the "Total Required Evaluations" count. If removing a member results in all remaining members having already submitted, the stage is auto-lock and transition to the next level.
+
+---
+
 ## Start Bid Evaluation
 
 - Click **Start Bid Evaluation** from the email.
