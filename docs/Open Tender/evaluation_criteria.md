@@ -67,6 +67,31 @@ Inside the modal:
 
 3. **Save Changes** – Click **Save** to apply the updates  
 
+--- 
+
+## Evaluation Criteria Modification Rules 
+
+To ensure process integrity, the system applies specific restrictions on modifying criteria once an evaluation has commenced. Use the guidelines below to understand when and how criteria can be updated.
+
+**State-Based Editing Constraints**
+
+The ability to edit criteria is determined by the **Current State** of the evaluation:
+
+- **Administrative State:** The initial phase.
+
+- **Technical State:** The secondary phase.
+
+- **Financial State:** The final phase.
+
+**Rules of Engagement**
+1. **Current State Lock:** Once a state becomes "Active" and the evaluation has started, all criteria associated with that specific state are locked. No further edits or deletions are permitted for the active phase.
+
+2. **Forward-Looking Edits:** While the current state is locked, administrators maintain the ability to access and modify criteria for any **upcoming states**.
+
+- Example: During the **Technical** evaluation, Technical criteria are read-only, but **Financial** criteria can still be refined.
+
+3. **Historical Access:** All criteria from previous states remain accessible for viewing and auditing purposes but cannot be altered after the state has been closed.
+
 ---
 
 ## What Happens After Update
