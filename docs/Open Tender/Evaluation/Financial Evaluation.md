@@ -1,23 +1,23 @@
 ---
-id: open-tender-technical-evaluation
-title: Open Tender – Technical Evaluation
-sidebar_label: Technical Evaluation
+id: open-tender-financial-evaluation
+title: Open Tender – Financial Evaluation
+sidebar_label: Financial Evaluation
 ---
 
 ## Bid List for Evaluation
 
-![Bid List for Evaluation](/img/open_tender/evaluation/technical/technical_evaluation_list.png)
+![Bid List for Evaluation](/img/open_tender/evaluation/financial/financial_evaluation_list.png)
 
-- Displays all bids available for technical evaluation.
+- Displays all bids available for financial evaluation.
 - Evaluators can select a bid to start evaluation.
 
 ---
 
-## Technical Evaluation Form
+## Financial Evaluation Form
 
-This form is very much similar to administrative evaluation form except the criteria requires number scoring.
+The form displays the criteria for scoring and the financial evaluator evaluates the bid based on the criteria.
 
-![Bid List for Evaluation](/img/open_tender/evaluation/technical/technical_evaluation.png)
+![Bid List for Evaluation](/img/open_tender/evaluation/financial/financial_evaluation.png)
 ---
 
 ### Actions
@@ -47,7 +47,7 @@ This form is very much similar to administrative evaluation form except the crit
 
 Logic for criteria scoring are defined during criteria setup and the scoring inputs are validated by these rules.
 
-![Scoring Criteria](/img/open_tender/evaluation/technical/technical_evaluation_scoring.png)
+![Scoring Criteria](/img/open_tender/evaluation/financial/financial_evaluation_scoring.png)
 
 The rule includes minimum, maximum and greater than value.
 
@@ -55,9 +55,9 @@ The rule includes minimum, maximum and greater than value.
 
 ## Documents Tab
 
-![Document Tab](/img/open_tender/evaluation/technical/technical_evaluation_document.png)
+![Document Tab](/img/open_tender/evaluation/financial/financial_evaluation_document.png)
 
-- Lists technical document related to:
+- Lists financial document related to:
   - The bid  
   - The tender  
 
@@ -69,7 +69,7 @@ The rule includes minimum, maximum and greater than value.
 
 ### Approve Confirmation
 
-![Approve Confirmation](/img/open_tender/evaluation/technical/technical_evaluation_bid_accept.png)
+![Approve Confirmation](/img/open_tender/evaluation/financial/financial_evaluation_bid_accept.png)
 _
 - Appears when clicking **Submit Evaluation**.
 - Form becomes **locked** before final confirmation.
@@ -78,7 +78,7 @@ _
 
 ### Reject Confirmation
 
-![Reject Confirmation](/img/open_tender/evaluation/technical/technical_evaluation_bid_reject.png)
+![Reject Confirmation](/img/open_tender/evaluation/financial/financial_evaluation_bid_reject.png)
 
 - Appears when clicking **Reject Bid**.
 - Requires confirmation before final rejection.
@@ -92,12 +92,12 @@ The evaluation is divided into two tabs.
 ### 1. Pending Evaluation Tab
 - Displays bids that are yet to be evaluated.
 
-![Pending Tab](/img/open_tender/evaluation/technical/technical_evaluation_pending.png)
+![Pending Tab](/img/open_tender/evaluation/financial/financial_evaluation_pending.png)
 
 ### 2. Completed Evaluation Tab
 - Displays bids that have already been evaluated.
 
-![Completed Tab](/img/open_tender/evaluation/technical/technical_evaluation_completed.png)
+![Completed Tab](/img/open_tender/evaluation/financial/financial_evaluation_completed.png)
 
 - Once a bid is evaluated:
   - It is moved from **Pending** to **Completed**.
@@ -109,7 +109,7 @@ The evaluation is divided into two tabs.
 
 This process ensures:
 
-- Structured technical evaluation of bids  
+- Structured financial evaluation of bids  
 - Mandatory validation before rejection  
 - Secure confirmation with locked forms  
 - Clear tracking of pending and completed evaluations  
