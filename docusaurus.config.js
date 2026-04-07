@@ -14,16 +14,12 @@ const config = {
   tagline: 'v1.0.0',
   favicon: 'https://lwfeprocurements.org/static/images/favicon.png',
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
-  future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
-  },
-
   // Set the production url of your site here
   url: 'https://lwfeprocurements.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+  trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -38,6 +34,13 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr', 'es', 'uk', 'ar'],
+    localeConfigs: {
+      en: { label: 'English' },
+      fr: { label: 'Français' },
+      es: { label: 'Español' },
+      uk: { label: 'Українська' },
+      ar: { label: 'العربية', direction: 'rtl' },
+    },
   },
 
   presets: [
@@ -62,7 +65,7 @@ const config = {
     [
       require.resolve('@cmfcmf/docusaurus-search-local'),
       {
-        language: 'en',
+        language: ['en', 'fr', 'es', 'ar'],
       },
     ],
   ],

@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "التالي",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Demand Note": {
+    "message": "طلب شراء",
+    "description": "The label for category 'Demand Note' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Open Tender": {
+    "message": "مناقصة عامة",
+    "description": "The label for category 'Open Tender' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Dispute": {
+    "message": "نزاع",
+    "description": "The label for category 'Dispute' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Evaluation": {
+    "message": "تقييم",
+    "description": "The label for category 'Evaluation' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Negotiated Tender": {
+    "message": "مناقصة تفاوضية",
+    "description": "The label for category 'Negotiated Tender' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Simple Procurement": {
+    "message": "شراء بسيط",
+    "description": "The label for category 'Simple Procurement' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Bid Evaluation": {
+    "message": "تقييم العطاءات",
+    "description": "The label for category 'Bid Evaluation' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Settings": {
+    "message": "الإعدادات",
+    "description": "The label for category 'Settings' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.All Criterias": {
+    "message": "جميع المعايير",
+    "description": "The label for category 'All Criterias' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Management Teams": {
+    "message": "فرق الإدارة",
+    "description": "The label for category 'Management Teams' in sidebar 'tutorialSidebar'"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Наступна",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Demand Note": {
+    "message": "Заявка на закупівлю",
+    "description": "The label for category 'Demand Note' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Open Tender": {
+    "message": "Відкритий тендер",
+    "description": "The label for category 'Open Tender' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Dispute": {
+    "message": "Спір",
+    "description": "The label for category 'Dispute' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Evaluation": {
+    "message": "Оцінка",
+    "description": "The label for category 'Evaluation' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Negotiated Tender": {
+    "message": "Переговорна процедура",
+    "description": "The label for category 'Negotiated Tender' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Simple Procurement": {
+    "message": "Спрощена закупівля",
+    "description": "The label for category 'Simple Procurement' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Bid Evaluation": {
+    "message": "Оцінка пропозицій",
+    "description": "The label for category 'Bid Evaluation' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Settings": {
+    "message": "Налаштування",
+    "description": "The label for category 'Settings' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.All Criterias": {
+    "message": "Усі критерії",
+    "description": "The label for category 'All Criterias' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Management Teams": {
+    "message": "Команди управління",
+    "description": "The label for category 'Management Teams' in sidebar 'tutorialSidebar'"
+  }
+}

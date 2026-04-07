@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Документація Lwf",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Документація Lwf",
+    "description": "The alt text of navbar logo"
+  }
+}

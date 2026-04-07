@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Demand Note": {
+    "message": "Nota de Pedido",
+    "description": "The label for category 'Demand Note' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Open Tender": {
+    "message": "Licitación Abierta",
+    "description": "The label for category 'Open Tender' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Dispute": {
+    "message": "Disputa",
+    "description": "The label for category 'Dispute' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Evaluation": {
+    "message": "Evaluación",
+    "description": "The label for category 'Evaluation' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Negotiated Tender": {
+    "message": "Licitación Negociada",
+    "description": "The label for category 'Negotiated Tender' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Simple Procurement": {
+    "message": "Adquisición Simplificada",
+    "description": "The label for category 'Simple Procurement' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Bid Evaluation": {
+    "message": "Evaluación de Ofertas",
+    "description": "The label for category 'Bid Evaluation' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Settings": {
+    "message": "Ajustes",
+    "description": "The label for category 'Settings' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.All Criterias": {
+    "message": "Todos los Criterios",
+    "description": "The label for category 'All Criterias' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Management Teams": {
+    "message": "Equipos de Gestión",
+    "description": "The label for category 'Management Teams' in sidebar 'tutorialSidebar'"
+  }
+}
