@@ -18,29 +18,36 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
+    env:
+      # Force all JS Actions to run on Node 24
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node.js 24
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 24
           cache: npm
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Build Docusaurus
+      - name: Build Docusaurus site
         run: npm run build
 
-      - name: Setup Pages
+      - name: Verify build output
+        run: ls -la build
+
+      - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload build output
+      - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./build   # ✅ now this folder EXISTS
+          path: ./build
 
       - name: Deploy to GitHub Pages
         id: deployment
