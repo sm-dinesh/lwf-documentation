@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation-summary
-title: المشتريات البسيطة – ملخص التقييم
-sidebar_label: ملخص التقييم
+title: Simple Procurement – Evaluation Summary
+sidebar_label: Evaluation Summary
+sidebar_position: 2
 ---
 
 ## صفحة الدعوة

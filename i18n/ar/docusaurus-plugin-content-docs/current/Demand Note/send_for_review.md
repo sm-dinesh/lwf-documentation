@@ -1,7 +1,7 @@
 ---
-title: إرسال للمراجعة
-sidebar_label: إرسال للمراجعة
-sidebar_position: 7
+title: Send For Review
+sidebar_label: send for review
+sidebar_position: 6
 ---
 
 # إرسال مذكرة الطلب للمراجعة

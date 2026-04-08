@@ -1,7 +1,7 @@
 ---
-title: Створити Заявку на закупівлю
-sidebar_label: Створити
-sidebar_position: 3
+title: Create Demand Note
+sidebar_label: create
+sidebar_position: 2
 ---
 
 ### Створення Заявки на закупівлю

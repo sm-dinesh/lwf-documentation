@@ -1,7 +1,8 @@
 ---
 id: open_tender_administrative_evaluation
-title: Différend Administratif
-sidebar_label: Administratif
+title: Administrative Dispute
+sidebar_label: Administrative
+sidebar_position: 1
 ---
 
 ## Point d'entrée du différend (Tableau des offres)

@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-create
-title: المشتريات البسيطة – إنشاء
-sidebar_label: إنشاء مشتريات
+title: Simple Procurement – Create
+sidebar_label: Create Procurement
+sidebar_position: 1
 ---
 
 # إنشاء مشتريات بسيطة

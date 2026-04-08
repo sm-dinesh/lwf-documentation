@@ -1,8 +1,8 @@
 ---
 id: open-tender-index
-title: Licitación abierta
-sidebar_label: Licitación abierta
-sidebar_position: 1
+title: Open Tender
+sidebar_label: Open Tender
+sidebar_position: 4
 ---
 
 # Licitación abierta

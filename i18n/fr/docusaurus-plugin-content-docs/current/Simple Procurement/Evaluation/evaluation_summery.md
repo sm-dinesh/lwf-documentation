@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation-summary
-title: Procédure simplifiée – Résumé de l'évaluation
-sidebar_label: Résumé de l'évaluation
+title: Simple Procurement – Evaluation Summary
+sidebar_label: Evaluation Summary
+sidebar_position: 2
 ---
 
 ## Page d'invitation

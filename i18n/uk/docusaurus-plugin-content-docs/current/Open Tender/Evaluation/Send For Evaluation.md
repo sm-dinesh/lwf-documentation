@@ -1,7 +1,8 @@
 ---
 id: open-tender-send-for-evaluation
-title: Відкритий тендер – Надіслати на оцінку
-sidebar_label: Надіслати на оцінку
+title: Open Tender – Start Evaluaiton
+sidebar_label: Start Evaluaiton
+sidebar_position: 2
 ---
 
 ## Відкриття пропозицій

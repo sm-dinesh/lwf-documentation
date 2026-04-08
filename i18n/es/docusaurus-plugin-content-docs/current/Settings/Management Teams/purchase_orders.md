@@ -1,3 +1,10 @@
+---
+id: settings-management-teams-purchase-order
+title: Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 1
+---
+
 # Pedidos de compra
 
 ## Acceso a los pedidos de compra

@@ -1,3 +1,10 @@
+---
+id: open_tender_financial_evaluation_dispute
+title: Financial Dispute
+sidebar_label: Financial
+sidebar_position: 3
+---
+
 ## Différend d'évaluation financière
 
 Un **différend financier** survient lorsque les évaluateurs saisissent des **valeurs financières ou des scores différents** pour le même critère.

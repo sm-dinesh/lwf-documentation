@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-purchase-order
-title: Спрощені закупівлі – Замовлення на закупівлю
-sidebar_label: Замовлення на закупівлю
+title: Simple Procurement – Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 8
 ---
 
 ## Доступ до замовлення на закупівлю

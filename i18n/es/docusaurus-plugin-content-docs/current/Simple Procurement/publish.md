@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-publish
-title: Contratación simplificada – Publicar
-sidebar_label: Publicar contratación
+title: Simple Procurement – Publish
+sidebar_label: Publish Procurement
+sidebar_position: 2
 ---
 
 # Publicar Contratación simplificada

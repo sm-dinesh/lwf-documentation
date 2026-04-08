@@ -1,7 +1,8 @@
 ---
 id: open_tender_administrative_evaluation
-title: Адміністративний спір
-sidebar_label: Адміністративний
+title: Administrative Dispute
+sidebar_label: Administrative
+sidebar_position: 1
 ---
 
 ## Точка входу до спору (Таблиця пропозицій)

@@ -1,7 +1,7 @@
 ---
-title: قائمة مذكرات الطلب
-sidebar_label: قائمة
-sidebar_position: 2
+title: List Demand Note
+sidebar_label: List
+sidebar_position: 1
 ---
 
 ### التنقل في صفحة القائمة

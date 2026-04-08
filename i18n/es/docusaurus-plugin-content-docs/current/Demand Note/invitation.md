@@ -1,7 +1,7 @@
 ---
-title: Invitación
-sidebar_label: Invitación
-sidebar_position: 8
+title: Invitation Review
+sidebar_label: Invitation Review
+sidebar_position: 7
 ---
 
 # Invitación a la Nota de demanda

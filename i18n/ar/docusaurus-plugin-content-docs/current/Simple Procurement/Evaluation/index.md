@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-index
-title: المشتريات البسيطة – التقييم
-sidebar_label: تقييم العروض
+title: Simple Procurement – Evaluation
+sidebar_label: Bid Evaluation
+sidebar_position: 7
 ---
 
 # التقييم

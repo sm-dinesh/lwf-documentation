@@ -1,7 +1,8 @@
 ---
 id: open-tender-administrative-evaluation
-title: Відкритий тендер – Адміністративна оцінка
-sidebar_label: Адміністративна оцінка
+title: Open Tender – Administrative Evaluation
+sidebar_label: Administrative Evaluation
+sidebar_position: 3
 ---
 
 ## Список пропозицій для оцінки

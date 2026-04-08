@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation
-title: Оцінка спрощених закупівель
-sidebar_label: Процес оцінки
+title: Simple Procurement Evaluation
+sidebar_label: Evaluate bids
+sidebar_position: 1
 ---
 
 # Оцінка спрощених закупівель

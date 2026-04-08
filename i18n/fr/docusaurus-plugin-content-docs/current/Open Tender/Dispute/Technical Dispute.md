@@ -1,7 +1,8 @@
 ---
 id: open_tender_technical_evaluation
-title: Différend Technique
-sidebar_label: Technique
+title: Technical Dispute
+sidebar_label: Technical
+sidebar_position: 2
 ---
 
 

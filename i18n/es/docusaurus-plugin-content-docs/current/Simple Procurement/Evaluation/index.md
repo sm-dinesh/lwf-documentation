@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-index
-title: Contratación simplificada – Evaluación
-sidebar_label: Evaluación de ofertas
+title: Simple Procurement – Evaluation
+sidebar_label: Bid Evaluation
+sidebar_position: 7
 ---
 
 # Evaluación

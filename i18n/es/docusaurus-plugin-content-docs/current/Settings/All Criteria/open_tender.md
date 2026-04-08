@@ -1,5 +1,7 @@
 ---
-sidebar_position: 3
+title: Open Tender
+sidebar_label: Open Tender
+sidebar_position: 2
 ---
 
 # Criterios de licitación abierta

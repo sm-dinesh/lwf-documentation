@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation-summary
-title: Contratación simplificada – Resumen de evaluación
-sidebar_label: Resumen de evaluación
+title: Simple Procurement – Evaluation Summary
+sidebar_label: Evaluation Summary
+sidebar_position: 2
 ---
 
 ## Página de invitación

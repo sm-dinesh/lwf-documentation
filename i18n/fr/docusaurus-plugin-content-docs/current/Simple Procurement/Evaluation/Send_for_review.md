@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation-review-process
-title: Procédure simplifiée – Processus de révision de l'évaluation
-sidebar_label: Processus de révision de l'évaluation
+title: Simple Procurement – Evaluation Review Process
+sidebar_label: Send Evaluation For review
+sidebar_position: 3
 ---
 
 ## Envoyer pour révision

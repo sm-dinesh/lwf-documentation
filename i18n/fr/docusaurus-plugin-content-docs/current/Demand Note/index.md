@@ -1,7 +1,7 @@
 ---
-title: Note de demande
-sidebar_label: Note de demande
-sidebar_position: 1
+title: Demand Note
+sidebar_label: Demand Note
+sidebar_position: 3
 ---
 
 ### Accéder au module

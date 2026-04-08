@@ -1,3 +1,10 @@
+---
+id: settings-management-teams-purchase-order
+title: Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 1
+---
+
 # أوامر الشراء
 
 ## الوصول إلى أوامر الشراء

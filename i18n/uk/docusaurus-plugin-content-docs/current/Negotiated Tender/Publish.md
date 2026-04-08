@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-publish
-title: Переговорна процедура – Публікація
-sidebar_label: Опублікувати тендер
+title: Negotiated Tender – Publish
+sidebar_label: Publish Tender
+sidebar_position: 2
 ---
 
 # Публікація переговорної процедури

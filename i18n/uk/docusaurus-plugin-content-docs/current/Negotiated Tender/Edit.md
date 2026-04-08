@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-edit
-title: Переговорна процедура – Редагування
-sidebar_label: Редагувати тендер
+title: Negotiated Tender – Edit
+sidebar_label: Edit Tender
+sidebar_position: 6
 ---
 
 # Редагування переговорної процедури

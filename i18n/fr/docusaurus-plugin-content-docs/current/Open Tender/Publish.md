@@ -1,7 +1,8 @@
 ---
 id: open-tender-publish
-title: Appel d'offres ouvert – Publier
-sidebar_label: Publier l'appel d'offres brouillon
+title: Open Tender – Publish
+sidebar_label: Publish Tender
+sidebar_position: 2
 ---
 
 # Publier l'appel d'offres ouvert

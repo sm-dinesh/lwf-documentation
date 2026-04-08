@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-purchase-order
-title: Contratación simplificada – Orden de compra
-sidebar_label: Orden de compra
+title: Simple Procurement – Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 8
 ---
 
 ## Acceso a la orden de compra

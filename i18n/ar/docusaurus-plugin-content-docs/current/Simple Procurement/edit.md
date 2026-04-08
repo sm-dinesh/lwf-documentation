@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-edit
-title: المشتريات البسيطة – تعديل
-sidebar_label: تعديل المشتريات
+title: Simple Procurement – Edit
+sidebar_label: Edit Procurement
+sidebar_position: 6
 ---
 
 # تعديل المشتريات البسيطة

@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-bid-invitations
-title: Appel d'offres négocié – Invitations à soumissionner
-sidebar_label: Invitations à soumissionner
+title: Negotiated Tender – Bid Invitations  
+sidebar_label: Bid Invitations
+sidebar_position: 5
 ---
 
 # Invitations à soumissionner

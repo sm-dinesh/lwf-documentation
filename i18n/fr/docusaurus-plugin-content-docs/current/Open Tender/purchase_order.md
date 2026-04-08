@@ -1,7 +1,8 @@
 ---
 id: open-tender-purchase-order
-title: Appel d'offres ouvert – Bon de commande
-sidebar_label: Bon de commande
+title: Open Tender – Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 10
 ---
 
 ## Accéder au Bon de commande

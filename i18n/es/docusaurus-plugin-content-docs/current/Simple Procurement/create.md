@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-create
-title: Contratación simplificada – Crear
-sidebar_label: Crear contratación
+title: Simple Procurement – Create
+sidebar_label: Create Procurement
+sidebar_position: 1
 ---
 
 # Crear Contratación simplificada

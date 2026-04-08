@@ -1,7 +1,7 @@
 ---
-title: Agregar archivo
-sidebar_label: Agregar archivo
-sidebar_position: 6
+title: Add File
+sidebar_label: add file
+sidebar_position: 5
 ---
 
 # Agregar archivo a la Nota de demanda

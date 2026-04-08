@@ -1,3 +1,9 @@
+---
+title: Management Teams
+sidebar_label: Management Teams
+sidebar_position: 1
+---
+
 # Equipos de gestión
 
 La sección **Equipos de gestión** permite a los administradores gestionar a los miembros del equipo involucrados en los procesos de evaluación y pedidos de compra.

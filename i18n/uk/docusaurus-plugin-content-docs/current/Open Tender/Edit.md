@@ -1,7 +1,8 @@
 ---
 id: open-tender-edit
-title: Відкритий тендер – Редагування
-sidebar_label: Редагувати тендер
+title: Open Tender – Edit
+sidebar_label: Edit Tender
+sidebar_position: 5
 ---
 
 # Редагувати відкритий тендер

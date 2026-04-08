@@ -1,7 +1,8 @@
 ---
 id: open-tender-create
-title: Appel d'offres ouvert – Créer
-sidebar_label: Créer un appel d'offres
+title: Open Tender – Create
+sidebar_label: Create Tender
+sidebar_position: 1
 ---
 
 # Créer un appel d'offres ouvert

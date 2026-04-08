@@ -1,8 +1,8 @@
 ---
 id: simple-procurement-index
-title: Спрощені закупівлі
-sidebar_label: Спрощені закупівлі
-sidebar_position: 3
+title: Simple Procurement
+sidebar_label: Simple Procurement
+sidebar_position: 6
 ---
 
 # Спрощені закупівлі

@@ -1,7 +1,8 @@
 ---
 id: dispute
-title: نزاع
-sidebar_label: نزاع
+title: Dispute
+sidebar_label: Dispute
+sidebar_position: 9
 ---
 
 ## ما هو النزاع؟

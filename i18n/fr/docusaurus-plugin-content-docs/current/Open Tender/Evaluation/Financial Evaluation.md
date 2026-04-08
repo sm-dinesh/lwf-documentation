@@ -1,7 +1,8 @@
 ---
 id: open-tender-financial-evaluation
-title: Appel d'offres ouvert – Évaluation financière
-sidebar_label: Évaluation financière
+title: Open Tender – Financial Evaluation
+sidebar_label: Financial Evaluaiton
+sidebar_position: 5
 ---
 
 ## Liste des offres pour évaluation

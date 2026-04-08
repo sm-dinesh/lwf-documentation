@@ -1,7 +1,7 @@
 ---
-title: Список Заявок на закупівлю
-sidebar_label: Список
-sidebar_position: 2
+title: List Demand Note
+sidebar_label: List
+sidebar_position: 1
 ---
 
 ### Навігація сторінкою списку

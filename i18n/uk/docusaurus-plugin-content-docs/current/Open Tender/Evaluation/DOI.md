@@ -1,7 +1,8 @@
 ---
 id: open-tender-send-doi
-title: Відкритий тендер – Надіслати запит на DOI
-sidebar_label: Надіслати запит на DOI
+title: Open Tender – Send for Doi
+sidebar_label: Send for Doi
+sidebar_position: 1
 ---
 
 ## Налаштування команди оцінки

@@ -1,7 +1,8 @@
 ---
 id: open-tender-technical-evaluation
-title: Відкритий тендер – Технічна оцінка
-sidebar_label: Технічна оцінка
+title: Open Tender – Technical Evaluation
+sidebar_label: Technical Evaluaiton
+sidebar_position: 4
 ---
 
 ## Список пропозицій для оцінки

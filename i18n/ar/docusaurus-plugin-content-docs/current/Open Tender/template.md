@@ -1,7 +1,8 @@
 ---
 id: open-tender-template-edit
-title: المناقصة المفتوحة – إدارة النماذج
-sidebar_label: إدارة النماذج
+title: Open Tender – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # إدارة النماذج

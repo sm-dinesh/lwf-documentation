@@ -1,7 +1,7 @@
 ---
-title: Ver detalles de la Nota de demanda
-sidebar_label: Ver
-sidebar_position: 4
+title: View Demand Note Details
+sidebar_label: view
+sidebar_position: 3
 ---
 
 # Ver Nota de demanda

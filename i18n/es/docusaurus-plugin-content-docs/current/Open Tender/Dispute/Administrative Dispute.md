@@ -1,7 +1,8 @@
 ---
 id: open_tender_administrative_evaluation
-title: Disputa Administrativa
-sidebar_label: Administrativa
+title: Administrative Dispute
+sidebar_label: Administrative
+sidebar_position: 1
 ---
 
 ## Punto de entrada de la disputa (Tabla de ofertas)

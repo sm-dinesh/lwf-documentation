@@ -1,7 +1,8 @@
 ---
 id: open-tender-administrative-evaluation
-title: المناقصة المفتوحة – التقييم الإداري
-sidebar_label: التقييم الإداري
+title: Open Tender – Administrative Evaluation
+sidebar_label: Administrative Evaluation
+sidebar_position: 3
 ---
 
 ## قائمة العطاءات للتقييم

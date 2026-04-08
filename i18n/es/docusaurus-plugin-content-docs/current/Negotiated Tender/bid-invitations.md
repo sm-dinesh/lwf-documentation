@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-bid-invitations
-title: Licitación Negociada – Invitaciones a Presentar Ofertas
-sidebar_label: Invitaciones a Presentar Ofertas
+title: Negotiated Tender – Bid Invitations  
+sidebar_label: Bid Invitations
+sidebar_position: 5
 ---
 
 # Invitaciones a Presentar Ofertas

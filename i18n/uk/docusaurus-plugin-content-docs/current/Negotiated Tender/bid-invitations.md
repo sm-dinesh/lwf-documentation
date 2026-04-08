@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-bid-invitations
-title: Переговорна процедура – Запрошення до участі
-sidebar_label: Запрошення до участі
+title: Negotiated Tender – Bid Invitations  
+sidebar_label: Bid Invitations
+sidebar_position: 5
 ---
 
 # Запрошення до участі

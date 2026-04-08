@@ -1,7 +1,7 @@
 ---
-title: Crear Nota de demanda
-sidebar_label: Crear
-sidebar_position: 3
+title: Create Demand Note
+sidebar_label: create
+sidebar_position: 2
 ---
 
 ### Creación de la Nota de demanda

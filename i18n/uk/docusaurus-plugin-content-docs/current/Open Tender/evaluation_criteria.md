@@ -1,7 +1,8 @@
 ---
 id: open-tender-criteria-update
-title: Відкритий тендер – Критерії оцінки
-sidebar_label: Критерії оцінки
+title: Open Tender – Evaluation Criteria
+sidebar_label: Evaluation Criteria
+sidebar_position: 3
 ---
 
 # Критерії оцінки

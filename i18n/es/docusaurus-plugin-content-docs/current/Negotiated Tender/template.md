@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-template-edit
-title: Licitación Negociada – Gestión de Plantillas
-sidebar_label: Gestión de Plantillas
+title: Negotiated Tender – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # Gestión de Plantillas

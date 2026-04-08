@@ -1,8 +1,8 @@
 ---
 id: open-tender-index
-title: Appel d'offres ouvert
-sidebar_label: Appel d'offres ouvert
-sidebar_position: 1
+title: Open Tender
+sidebar_label: Open Tender
+sidebar_position: 4
 ---
 
 # Appel d'offres ouvert

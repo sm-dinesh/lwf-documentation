@@ -1,7 +1,8 @@
 ---
 id: open_tender_technical_evaluation
-title: Disputa Técnica
-sidebar_label: Técnica
+title: Technical Dispute
+sidebar_label: Technical
+sidebar_position: 2
 ---
 
 

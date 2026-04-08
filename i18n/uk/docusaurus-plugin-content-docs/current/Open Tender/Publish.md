@@ -1,7 +1,8 @@
 ---
 id: open-tender-publish
-title: Відкритий тендер – Публікація
-sidebar_label: Опублікувати чернетку тендеру
+title: Open Tender – Publish
+sidebar_label: Publish Tender
+sidebar_position: 2
 ---
 
 # Опублікувати відкритий тендер

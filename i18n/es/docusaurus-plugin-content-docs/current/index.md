@@ -1,6 +1,7 @@
 ---
+title: Welcome Page
+sidebar_label: Welcome Page
 sidebar_position: 0
-slug: /
 ---
 
 # Bienvenido a la Documentación de Lwf eTender

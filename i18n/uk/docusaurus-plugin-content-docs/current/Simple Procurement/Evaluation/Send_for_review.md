@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation-review-process
-title: Спрощені закупівлі – Процес розгляду оцінки
-sidebar_label: Процес розгляду оцінки
+title: Simple Procurement – Evaluation Review Process
+sidebar_label: Send Evaluation For review
+sidebar_position: 3
 ---
 
 ## Надіслати на розгляд

@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-template-edit
-title: المناقصة المتفاوض عليها – إدارة القوالب
-sidebar_label: إدارة القوالب
+title: Negotiated Tender – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # إدارة القوالب

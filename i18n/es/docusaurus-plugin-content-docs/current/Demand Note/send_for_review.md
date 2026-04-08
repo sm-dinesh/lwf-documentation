@@ -1,7 +1,7 @@
 ---
-title: Enviar para revisión
-sidebar_label: Enviar para revisión
-sidebar_position: 7
+title: Send For Review
+sidebar_label: send for review
+sidebar_position: 6
 ---
 
 # Enviar Nota de demanda para revisión

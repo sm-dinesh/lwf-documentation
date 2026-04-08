@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-award
-title: المشتريات البسيطة – عملية الترسية
-sidebar_label: عملية الترسية
+title: Simple Procurement – Award Process
+sidebar_label: Award bid
+sidebar_position: 4
 ---
 
 ## الوصول إلى الدعوات والعروض

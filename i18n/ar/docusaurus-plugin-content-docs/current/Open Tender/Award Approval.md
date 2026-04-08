@@ -1,7 +1,8 @@
 ---
 id: open-tender-award-approal
-title: الموافقة على الترسية
-sidebar_label: الموافقة على الترسية
+title: Award Approval
+sidebar_label: Award Approval
+sidebar_position: 7
 ---
 
 تُستخدم عملية **الموافقة على الترسية** لإنهاء واعتماد مقدم العطاء المختار بعد اكتمال التقييم.

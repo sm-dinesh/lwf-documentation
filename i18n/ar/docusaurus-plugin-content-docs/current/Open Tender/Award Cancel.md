@@ -1,7 +1,8 @@
 ---
 id: open-tender-award-cancel
-title: إلغاء الترسية
-sidebar_label: إلغاء الترسية
+title: Award Cancel
+sidebar_label: Award Cancel
+sidebar_position: 8
 ---
 
 ## إلغاء الترسية

@@ -1,7 +1,8 @@
 ---
 id: open-tender-evaluation-summary
-title: المناقصة المفتوحة – ملخص التقييم
-sidebar_label: ملخص التقييم
+title: Open Tender – Evaluation Summary
+sidebar_label: Evaluaiton Summary
+sidebar_position: 6
 ---
 
 # ملخص التقييم

@@ -1,7 +1,8 @@
 ---
 id: open-tender-send-for-evaluation
-title: المناقصة المفتوحة – الإرسال للتقييم
-sidebar_label: الإرسال للتقييم
+title: Open Tender – Start Evaluaiton
+sidebar_label: Start Evaluaiton
+sidebar_position: 2
 ---
 
 ## فتح العطاءات

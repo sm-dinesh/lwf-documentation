@@ -1,7 +1,7 @@
 ---
-title: مذكرة طلب
-sidebar_label: مذكرة طلب
-sidebar_position: 1
+title: Demand Note
+sidebar_label: Demand Note
+sidebar_position: 3
 ---
 
 ### الوصول إلى الوحدة

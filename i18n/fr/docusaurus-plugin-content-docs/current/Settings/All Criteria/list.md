@@ -1,5 +1,7 @@
 ---
-sidebar_position: 2
+title: Lisitng of Criterias
+sidebar_label: Lisitng of Criterias
+sidebar_position: 1
 ---
 
 # Liste des critères

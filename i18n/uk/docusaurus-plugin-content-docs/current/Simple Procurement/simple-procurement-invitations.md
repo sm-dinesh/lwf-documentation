@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-invitations
-title: Спрощені закупівлі – Запрошення постачальників
-sidebar_label: Запрошення постачальників
+title: Simple Procurement – Vendor Invitations
+sidebar_label: Vendor Invitations
+sidebar_position: 5
 ---
 
 # Запрошення постачальників

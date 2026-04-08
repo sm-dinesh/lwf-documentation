@@ -1,7 +1,8 @@
 ---
 id: open-tender-administrative-evaluation
-title: Licitación abierta – Evaluación administrativa
-sidebar_label: Evaluación administrativa
+title: Open Tender – Administrative Evaluation
+sidebar_label: Administrative Evaluation
+sidebar_position: 3
 ---
 
 ## Lista de ofertas para evaluación

@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation
-title: تقييم المشتريات البسيطة
-sidebar_label: عملية التقييم
+title: Simple Procurement Evaluation
+sidebar_label: Evaluate bids
+sidebar_position: 1
 ---
 
 # تقييم المشتريات البسيطة

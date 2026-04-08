@@ -1,5 +1,7 @@
 ---
-sidebar_position: 1
+title: All Criterias
+sidebar_label: All Criterias
+sidebar_position: 2
 ---
 
 # Todos los criterios

@@ -1,7 +1,7 @@
 ---
-title: Перегляд деталей Заявки на закупівлю
-sidebar_label: Перегляд
-sidebar_position: 4
+title: View Demand Note Details
+sidebar_label: view
+sidebar_position: 3
 ---
 
 # Перегляд Заявки на закупівлю

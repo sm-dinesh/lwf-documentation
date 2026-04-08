@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-award
-title: Contratación simplificada – Proceso de adjudicación
-sidebar_label: Proceso de adjudicación
+title: Simple Procurement – Award Process
+sidebar_label: Award bid
+sidebar_position: 4
 ---
 
 ## Acceso a invitaciones y ofertas

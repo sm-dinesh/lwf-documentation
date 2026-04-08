@@ -1,7 +1,7 @@
 ---
-title: Надіслати на розгляд
-sidebar_label: Надіслати на розгляд
-sidebar_position: 7
+title: Send For Review
+sidebar_label: send for review
+sidebar_position: 6
 ---
 
 # Надіслати Заявку на закупівлю на розгляд

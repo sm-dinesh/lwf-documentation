@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-publish
-title: Procédure simplifiée – Publier
-sidebar_label: Publier un approvisionnement
+title: Simple Procurement – Publish
+sidebar_label: Publish Procurement
+sidebar_position: 2
 ---
 
 # Publier une procédure simplifiée

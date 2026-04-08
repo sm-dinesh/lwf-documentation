@@ -1,7 +1,8 @@
 ---
 id: open-tender-evaluation-summary
-title: Licitación abierta – Resumen de la evaluación
-sidebar_label: Resumen de la evaluación
+title: Open Tender – Evaluation Summary
+sidebar_label: Evaluaiton Summary
+sidebar_position: 6
 ---
 
 # Resumen de la evaluación

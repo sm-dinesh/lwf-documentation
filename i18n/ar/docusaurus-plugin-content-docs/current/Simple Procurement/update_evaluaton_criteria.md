@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-criteria-update
-title: المشتريات البسيطة – معايير التقييم
-sidebar_label: معايير التقييم
+title: Simple Procurement – Evaluation Criteria
+sidebar_label: Evaluation Criteria
+sidebar_position: 3
 ---
 
 # معايير التقييم

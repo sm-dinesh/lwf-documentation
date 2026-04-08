@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation
-title: Evaluación de Contratación simplificada
-sidebar_label: Proceso de evaluación
+title: Simple Procurement Evaluation
+sidebar_label: Evaluate bids
+sidebar_position: 1
 ---
 
 # Evaluación de Contratación simplificada

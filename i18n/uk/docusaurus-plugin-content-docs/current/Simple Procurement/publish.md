@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-publish
-title: Спрощені закупівлі – Опублікувати
-sidebar_label: Опублікувати закупівлю
+title: Simple Procurement – Publish
+sidebar_label: Publish Procurement
+sidebar_position: 2
 ---
 
 # Опублікувати спрощену закупівлю

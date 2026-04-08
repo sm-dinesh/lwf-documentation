@@ -1,8 +1,8 @@
 ---
 id: open-tender-index
-title: Відкритий тендер
-sidebar_label: Відкритий тендер
-sidebar_position: 1
+title: Open Tender
+sidebar_label: Open Tender
+sidebar_position: 4
 ---
 
 # Відкритий тендер

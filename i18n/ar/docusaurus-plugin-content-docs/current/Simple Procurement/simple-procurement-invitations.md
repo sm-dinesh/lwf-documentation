@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-invitations
-title: المشتريات البسيطة – دعوات الموردين
-sidebar_label: دعوات الموردين
+title: Simple Procurement – Vendor Invitations
+sidebar_label: Vendor Invitations
+sidebar_position: 5
 ---
 
 # دعوات الموردين

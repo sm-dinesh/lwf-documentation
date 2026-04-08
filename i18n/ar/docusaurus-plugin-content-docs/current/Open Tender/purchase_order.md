@@ -1,7 +1,8 @@
 ---
 id: open-tender-purchase-order
-title: المناقصة العامة – طلب الشراء
-sidebar_label: طلب الشراء
+title: Open Tender – Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 10
 ---
 
 ## الوصول إلى طلب الشراء

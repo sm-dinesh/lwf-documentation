@@ -1,7 +1,8 @@
 ---
 id: open-tender-edit
-title: المناقصة المفتوحة – تعديل
-sidebar_label: تعديل المناقصة
+title: Open Tender – Edit
+sidebar_label: Edit Tender
+sidebar_position: 5
 ---
 
 # تعديل المناقصة المفتوحة

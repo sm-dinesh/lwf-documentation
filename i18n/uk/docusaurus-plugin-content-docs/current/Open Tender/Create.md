@@ -1,7 +1,8 @@
 ---
 id: open-tender-create
-title: Відкритий тендер – Створення
-sidebar_label: Створити тендер
+title: Open Tender – Create
+sidebar_label: Create Tender
+sidebar_position: 1
 ---
 
 # Створити відкритий тендер

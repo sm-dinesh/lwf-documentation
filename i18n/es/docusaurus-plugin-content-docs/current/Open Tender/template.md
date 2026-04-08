@@ -1,7 +1,8 @@
 ---
 id: open-tender-template-edit
-title: Licitación abierta – Gestión de plantillas
-sidebar_label: Gestión de plantillas
+title: Open Tender – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # Gestión de plantillas

@@ -1,7 +1,8 @@
 ---
 id: open-tender-send-doi
-title: Appel d'offres ouvert – Envoyer pour DOI
-sidebar_label: Envoyer pour DOI
+title: Open Tender – Send for Doi
+sidebar_label: Send for Doi
+sidebar_position: 1
 ---
 
 ## Configuration de l'équipe d'évaluation

@@ -1,7 +1,8 @@
 ---
 id: open-tender-send-for-evaluation
-title: Licitación abierta – Enviar para evaluación
-sidebar_label: Enviar para evaluación
+title: Open Tender – Start Evaluaiton
+sidebar_label: Start Evaluaiton
+sidebar_position: 2
 ---
 
 ## Apertura de ofertas

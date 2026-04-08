@@ -1,7 +1,7 @@
 ---
-title: Editar Nota de demanda
-sidebar_label: Editar
-sidebar_position: 5
+title: Edit Demand Note
+sidebar_label: edit
+sidebar_position: 4
 ---
 
 # Editar Nota de demanda

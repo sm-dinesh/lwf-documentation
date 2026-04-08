@@ -1,7 +1,7 @@
 ---
-title: عرض تفاصيل مذكرة الطلب
-sidebar_label: عرض
-sidebar_position: 4
+title: View Demand Note Details
+sidebar_label: view
+sidebar_position: 3
 ---
 
 # عرض مذكرة الطلب

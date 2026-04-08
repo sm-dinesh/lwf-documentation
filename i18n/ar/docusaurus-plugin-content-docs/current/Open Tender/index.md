@@ -1,8 +1,8 @@
 ---
 id: open-tender-index
-title: المناقصة المفتوحة
-sidebar_label: المناقصة المفتوحة
-sidebar_position: 1
+title: Open Tender
+sidebar_label: Open Tender
+sidebar_position: 4
 ---
 
 # المناقصة المفتوحة

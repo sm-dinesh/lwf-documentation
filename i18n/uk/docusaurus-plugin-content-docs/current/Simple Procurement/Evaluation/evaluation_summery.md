@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation-summary
-title: Спрощені закупівлі – Звіт про результати оцінки
-sidebar_label: Звіт про результати оцінки
+title: Simple Procurement – Evaluation Summary
+sidebar_label: Evaluation Summary
+sidebar_position: 2
 ---
 
 ## Сторінка запрошення

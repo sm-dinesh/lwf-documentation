@@ -1,7 +1,8 @@
 ---
 id: open-tender-award-cancel
-title: Скасування присудження
-sidebar_label: Скасування присудження
+title: Award Cancel
+sidebar_label: Award Cancel
+sidebar_position: 8
 ---
 
 ## Скасування присудження

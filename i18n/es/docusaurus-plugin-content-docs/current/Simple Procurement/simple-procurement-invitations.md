@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-invitations
-title: Contratación simplificada – Invitaciones a proveedores
-sidebar_label: Invitaciones a proveedores
+title: Simple Procurement – Vendor Invitations
+sidebar_label: Vendor Invitations
+sidebar_position: 5
 ---
 
 # Invitaciones a proveedores

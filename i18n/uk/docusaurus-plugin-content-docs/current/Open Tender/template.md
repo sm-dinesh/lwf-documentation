@@ -1,7 +1,8 @@
 ---
 id: open-tender-template-edit
-title: Відкритий тендер – Управління шаблонами
-sidebar_label: Управління шаблонами
+title: Open Tender – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # Управління шаблонами

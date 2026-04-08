@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-create
-title: Спрощені закупівлі – Створити
-sidebar_label: Створити закупівлю
+title: Simple Procurement – Create
+sidebar_label: Create Procurement
+sidebar_position: 1
 ---
 
 # Створити спрощену закупівлю

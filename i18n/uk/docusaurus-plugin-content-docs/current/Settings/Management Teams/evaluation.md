@@ -1,3 +1,10 @@
+---
+id: settings-management-teams-evaluation
+title: Evaluaiton
+sidebar_label: Evaluaiton
+sidebar_position: 2
+---
+
 # Оцінка
 
 ## Доступ до оцінки

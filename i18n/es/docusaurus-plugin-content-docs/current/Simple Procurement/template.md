@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-template-edit
-title: Contratación simplificada – Gestión de plantillas
-sidebar_label: Gestión de plantillas
+title: Simple Procurement – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # Gestión de plantillas

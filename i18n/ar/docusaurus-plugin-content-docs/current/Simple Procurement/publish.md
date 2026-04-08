@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-publish
-title: المشتريات البسيطة – نشر
-sidebar_label: نشر المشتريات
+title: Simple Procurement – Publish
+sidebar_label: Publish Procurement
+sidebar_position: 2
 ---
 
 # نشر المشتريات البسيطة

@@ -1,7 +1,7 @@
 ---
-title: Liste des Notes de demande
-sidebar_label: Liste
-sidebar_position: 2
+title: List Demand Note
+sidebar_label: List
+sidebar_position: 1
 ---
 
 ### Navigation dans la page de liste

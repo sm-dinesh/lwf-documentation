@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-create
-title: Licitación Negociada – Crear
-sidebar_label: Crear Licitación
+title: Negotiated Tender – Create
+sidebar_label: Create Tender
+sidebar_position: 1
 ---
 
 # Crear Licitación Negociada

@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-index
-title: Спрощені закупівлі – Оцінка
-sidebar_label: Оцінка пропозицій
+title: Simple Procurement – Evaluation
+sidebar_label: Bid Evaluation
+sidebar_position: 7
 ---
 
 # Оцінка

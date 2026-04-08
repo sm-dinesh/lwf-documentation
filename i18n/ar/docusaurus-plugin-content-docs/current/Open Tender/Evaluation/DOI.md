@@ -1,7 +1,8 @@
 ---
 id: open-tender-send-doi
-title: المناقصة المفتوحة – إرسال طلب إقرار الحياد (DOI)
-sidebar_label: إرسال طلب إقرار الحياد
+title: Open Tender – Send for Doi
+sidebar_label: Send for Doi
+sidebar_position: 1
 ---
 
 ## إعداد فريق التقييم

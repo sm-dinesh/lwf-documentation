@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-bid-invitations
-title: المناقصة المتفاوض عليها – دعوات تقديم العطاءات
-sidebar_label: دعوات تقديم العطاءات
+title: Negotiated Tender – Bid Invitations  
+sidebar_label: Bid Invitations
+sidebar_position: 5
 ---
 
 # دعوات تقديم العطاءات

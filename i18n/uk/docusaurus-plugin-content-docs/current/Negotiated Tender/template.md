@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-template-edit
-title: Переговорна процедура – Управління шаблонами
-sidebar_label: Управління шаблонами
+title: Negotiated Tender – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # Управління шаблонами

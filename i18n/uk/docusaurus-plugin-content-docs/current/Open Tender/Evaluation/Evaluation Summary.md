@@ -1,7 +1,8 @@
 ---
 id: open-tender-evaluation-summary
-title: Відкритий тендер – Резюме оцінки
-sidebar_label: Резюме оцінки
+title: Open Tender – Evaluation Summary
+sidebar_label: Evaluaiton Summary
+sidebar_position: 6
 ---
 
 # Резюме оцінки

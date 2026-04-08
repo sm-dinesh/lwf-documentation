@@ -1,7 +1,7 @@
 ---
-title: Ajouter un fichier
-sidebar_label: Ajouter un fichier
-sidebar_position: 6
+title: Add File
+sidebar_label: add file
+sidebar_position: 5
 ---
 
 # Ajouter un fichier à la Note de demande

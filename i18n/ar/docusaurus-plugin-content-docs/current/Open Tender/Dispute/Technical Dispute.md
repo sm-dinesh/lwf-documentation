@@ -1,7 +1,8 @@
 ---
 id: open_tender_technical_evaluation
-title: نزاع فني
-sidebar_label: فني
+title: Technical Dispute
+sidebar_label: Technical
+sidebar_position: 2
 ---
 
 

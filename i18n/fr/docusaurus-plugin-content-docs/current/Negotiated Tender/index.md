@@ -1,8 +1,8 @@
 ---
 id: negotiated-tender-index
-title: Appel d'offres négocié
-sidebar_label: Appel d'offres négocié
-sidebar_position: 2
+title: Neogotiated Tender
+sidebar_label: Neogotiated Tender
+sidebar_position: 5
 ---
 
 # Appel d'offres négocié

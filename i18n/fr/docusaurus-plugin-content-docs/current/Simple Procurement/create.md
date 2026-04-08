@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-create
-title: Procédure simplifiée – Créer
-sidebar_label: Créer un approvisionnement
+title: Simple Procurement – Create
+sidebar_label: Create Procurement
+sidebar_position: 1
 ---
 
 # Créer une procédure simplifiée

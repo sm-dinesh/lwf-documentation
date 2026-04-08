@@ -1,7 +1,8 @@
 ---
 id: open-tender-purchase-order
-title: Licitación Abierta – Orden de Compra
-sidebar_label: Orden de Compra
+title: Open Tender – Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 10
 ---
 
 ## Acceder a la Orden de Compra

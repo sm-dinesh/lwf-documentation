@@ -1,7 +1,8 @@
 ---
 id: open-tender-evaluation-summary
-title: Appel d'offres ouvert – Résumé de l'évaluation
-sidebar_label: Résumé de l'évaluation
+title: Open Tender – Evaluation Summary
+sidebar_label: Evaluaiton Summary
+sidebar_position: 6
 ---
 
 # Résumé de l'évaluation

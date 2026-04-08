@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-publish
-title: Appel d'offres négocié – Publier
-sidebar_label: Publier l'appel d'offres
+title: Negotiated Tender – Publish
+sidebar_label: Publish Tender
+sidebar_position: 2
 ---
 
 # Publier l'appel d'offres négocié

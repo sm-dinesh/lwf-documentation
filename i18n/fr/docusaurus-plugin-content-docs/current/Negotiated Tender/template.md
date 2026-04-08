@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-template-edit
-title: Appel d'offres négocié – Gestion des modèles
-sidebar_label: Gestion des modèles
+title: Negotiated Tender – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # Gestion des modèles

@@ -1,3 +1,10 @@
+---
+id: open_tender_financial_evaluation_dispute
+title: Financial Dispute
+sidebar_label: Financial
+sidebar_position: 3
+---
+
 ## Спір щодо фінансової оцінки
 
 **Фінансовий спір** виникає, коли оцінювачі вводять **різні фінансові значення або бали** для одного і того ж критерію.

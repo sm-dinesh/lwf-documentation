@@ -1,7 +1,8 @@
 ---
 id: open-tender-technical-evaluation
-title: Appel d'offres ouvert – Évaluation technique
-sidebar_label: Évaluation technique
+title: Open Tender – Technical Evaluation
+sidebar_label: Technical Evaluaiton
+sidebar_position: 4
 ---
 
 ## Liste des offres pour évaluation

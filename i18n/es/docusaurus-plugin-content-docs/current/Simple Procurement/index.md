@@ -1,8 +1,8 @@
 ---
 id: simple-procurement-index
-title: Contratación simplificada
-sidebar_label: Contratación simplificada
-sidebar_position: 3
+title: Simple Procurement
+sidebar_label: Simple Procurement
+sidebar_position: 6
 ---
 
 # Contratación simplificada

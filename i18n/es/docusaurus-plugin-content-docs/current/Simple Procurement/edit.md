@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-edit
-title: Contratación simplificada – Editar
-sidebar_label: Editar contratación
+title: Simple Procurement – Edit
+sidebar_label: Edit Procurement
+sidebar_position: 6
 ---
 
 # Editar Contratación simplificada

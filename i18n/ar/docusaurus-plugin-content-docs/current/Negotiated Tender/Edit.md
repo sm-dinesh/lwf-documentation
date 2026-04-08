@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-edit
-title: المناقصة المتفاوض عليها – تحرير
-sidebar_label: تحرير المناقصة
+title: Negotiated Tender – Edit
+sidebar_label: Edit Tender
+sidebar_position: 6
 ---
 
 # تحرير المناقصة المتفاوض عليها

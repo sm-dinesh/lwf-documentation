@@ -1,7 +1,8 @@
 ---
 id: open-tender-administrative-evaluation
-title: Appel d'offres ouvert – Évaluation administrative
-sidebar_label: Évaluation administrative
+title: Open Tender – Administrative Evaluation
+sidebar_label: Administrative Evaluation
+sidebar_position: 3
 ---
 
 ## Liste des offres pour évaluation

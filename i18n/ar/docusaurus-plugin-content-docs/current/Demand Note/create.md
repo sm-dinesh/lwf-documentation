@@ -1,7 +1,7 @@
 ---
-title: إنشاء مذكرة طلب
-sidebar_label: إنشاء
-sidebar_position: 3
+title: Create Demand Note
+sidebar_label: create
+sidebar_position: 2
 ---
 
 ### إنشاء مذكرة الطلب

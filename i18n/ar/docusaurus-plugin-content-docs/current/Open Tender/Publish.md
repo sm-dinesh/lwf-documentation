@@ -1,7 +1,8 @@
 ---
 id: open-tender-publish
-title: المناقصة المفتوحة – نشر
-sidebar_label: نشر مسودة المناقصة
+title: Open Tender – Publish
+sidebar_label: Publish Tender
+sidebar_position: 2
 ---
 
 # نشر المناقصة المفتوحة

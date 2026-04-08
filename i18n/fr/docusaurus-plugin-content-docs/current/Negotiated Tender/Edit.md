@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-edit
-title: Appel d'offres négocié – Modifier
-sidebar_label: Modifier l'appel d'offres
+title: Negotiated Tender – Edit
+sidebar_label: Edit Tender
+sidebar_position: 6
 ---
 
 # Modifier l'appel d'offres négocié

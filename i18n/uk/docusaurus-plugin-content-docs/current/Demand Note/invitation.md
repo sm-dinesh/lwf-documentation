@@ -1,7 +1,7 @@
 ---
-title: Запрошення
-sidebar_label: Запрошення
-sidebar_position: 8
+title: Invitation Review
+sidebar_label: Invitation Review
+sidebar_position: 7
 ---
 
 # Запрошення до Заявки на закупівлю

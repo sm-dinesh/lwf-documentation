@@ -1,3 +1,9 @@
+---
+title: Management Teams
+sidebar_label: Management Teams
+sidebar_position: 1
+---
+
 # فرق الإدارة
 
 يسمح قسم **فرق الإدارة** للمسؤولين بإدارة أعضاء الفريق المشاركين في عمليات التقييم وأوامر الشراء.

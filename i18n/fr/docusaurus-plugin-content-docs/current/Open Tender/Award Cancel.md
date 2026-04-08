@@ -1,7 +1,8 @@
 ---
 id: open-tender-award-cancel
-title: Annuler l'attribution
-sidebar_label: Annuler l'attribution
+title: Award Cancel
+sidebar_label: Award Cancel
+sidebar_position: 8
 ---
 
 ## Annulation de l'attribution

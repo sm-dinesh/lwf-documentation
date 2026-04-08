@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-template-edit
-title: Procédure simplifiée – Gestion des modèles
-sidebar_label: Gestion des modèles
+title: Simple Procurement – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # Gestion des modèles

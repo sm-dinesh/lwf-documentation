@@ -1,7 +1,8 @@
 ---
 id: open-tender-award-approal
-title: Затвердження присудження
-sidebar_label: Затвердження присудження
+title: Award Approval
+sidebar_label: Award Approval
+sidebar_position: 7
 ---
 
 Процес **Затвердження присудження** використовується для фіналізації та затвердження обраного учасника після завершення оцінки.

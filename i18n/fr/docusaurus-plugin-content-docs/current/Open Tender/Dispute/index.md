@@ -1,7 +1,8 @@
 ---
 id: dispute
-title: Différend
-sidebar_label: Différend
+title: Dispute
+sidebar_label: Dispute
+sidebar_position: 9
 ---
 
 ## Qu'est-ce qu'un différend ?

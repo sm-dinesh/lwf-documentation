@@ -1,7 +1,8 @@
 ---
 id: open-tender-award-approal
-title: Approbation de l'attribution
-sidebar_label: Approbation de l'attribution
+title: Award Approval
+sidebar_label: Award Approval
+sidebar_position: 7
 ---
 
 Le processus d'**Approbation de l'attribution** est utilisé pour finaliser et approuver le soumissionnaire sélectionné après la fin de l'évaluation.

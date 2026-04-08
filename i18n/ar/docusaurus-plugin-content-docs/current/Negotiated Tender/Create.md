@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-create
-title: المناقصة المتفاوض عليها – إنشاء
-sidebar_label: إنشاء مناقصة
+title: Negotiated Tender – Create
+sidebar_label: Create Tender
+sidebar_position: 1
 ---
 
 # إنشاء مناقصة متفاوض عليها

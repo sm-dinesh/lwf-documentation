@@ -1,8 +1,8 @@
 ---
 id: negotiated-tender-index
-title: Переговорна процедура
-sidebar_label: Переговорна процедура
-sidebar_position: 2
+title: Neogotiated Tender
+sidebar_label: Neogotiated Tender
+sidebar_position: 5
 ---
 
 # Переговорна процедура

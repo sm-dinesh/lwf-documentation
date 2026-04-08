@@ -1,7 +1,8 @@
 ---
 id: open-tender-financial-evaluation
-title: المناقصة المفتوحة – التقييم المالي
-sidebar_label: التقييم المالي
+title: Open Tender – Financial Evaluation
+sidebar_label: Financial Evaluaiton
+sidebar_position: 5
 ---
 
 ## قائمة العطاءات للتقييم

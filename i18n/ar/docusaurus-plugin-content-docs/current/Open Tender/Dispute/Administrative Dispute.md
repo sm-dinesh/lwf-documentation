@@ -1,7 +1,8 @@
 ---
 id: open_tender_administrative_evaluation
-title: نزاع إداري
-sidebar_label: إداري
+title: Administrative Dispute
+sidebar_label: Administrative
+sidebar_position: 1
 ---
 
 ## نقطة دخول النزاع (جدول العطاءات)

@@ -1,8 +1,8 @@
 ---
 id: simple-procurement-index
-title: Procédure simplifiée
-sidebar_label: Procédure simplifiée
-sidebar_position: 3
+title: Simple Procurement
+sidebar_label: Simple Procurement
+sidebar_position: 6
 ---
 
 # Procédure simplifiée

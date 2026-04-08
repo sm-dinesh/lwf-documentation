@@ -1,7 +1,8 @@
 ---
 id: open-tender-financial-evaluation
-title: Відкритий тендер – Фінансова оцінка
-sidebar_label: Фінансова оцінка
+title: Open Tender – Financial Evaluation
+sidebar_label: Financial Evaluaiton
+sidebar_position: 5
 ---
 
 ## Список пропозицій для оцінки

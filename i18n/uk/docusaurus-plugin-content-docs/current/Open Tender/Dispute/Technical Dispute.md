@@ -1,7 +1,8 @@
 ---
 id: open_tender_technical_evaluation
-title: Технічний спір
-sidebar_label: Технічний
+title: Technical Dispute
+sidebar_label: Technical
+sidebar_position: 2
 ---
 
 

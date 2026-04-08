@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-create
-title: Переговорна процедура – Створення
-sidebar_label: Створити тендер
+title: Negotiated Tender – Create
+sidebar_label: Create Tender
+sidebar_position: 1
 ---
 
 # Створення переговорної процедури

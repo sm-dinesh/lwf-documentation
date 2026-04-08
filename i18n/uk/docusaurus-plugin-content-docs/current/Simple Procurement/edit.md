@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-edit
-title: Спрощені закупівлі – Редагувати
-sidebar_label: Редагувати закупівлю
+title: Simple Procurement – Edit
+sidebar_label: Edit Procurement
+sidebar_position: 6
 ---
 
 # Редагувати спрощену закупівлю

@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-purchase-order
-title: Procédure simplifiée – Bon de commande
-sidebar_label: Bon de commande
+title: Simple Procurement – Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 8
 ---
 
 ## Accéder au bon de commande

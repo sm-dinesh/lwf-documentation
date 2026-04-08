@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-criteria-update
-title: Переговорна процедура – Критерії оцінки
-sidebar_label: Критерії оцінки
+title: Negotiated Tender – Evaluation Criteria
+sidebar_label: Evaluaiton Criteria
+sidebar_position: 3
 ---
 
 # Критерії оцінки

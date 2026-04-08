@@ -1,7 +1,8 @@
 ---
 id: open-tender-criteria-update
-title: Appel d'offres ouvert – Critères d'évaluation
-sidebar_label: Critères d'évaluation
+title: Open Tender – Evaluation Criteria
+sidebar_label: Evaluation Criteria
+sidebar_position: 3
 ---
 
 # Critères d'évaluation

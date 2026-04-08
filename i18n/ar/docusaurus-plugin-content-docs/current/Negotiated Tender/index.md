@@ -1,8 +1,8 @@
 ---
 id: negotiated-tender-index
-title: المناقصة المتفاوض عليها
-sidebar_label: المناقصة المتفاوض عليها
-sidebar_position: 2
+title: Neogotiated Tender
+sidebar_label: Neogotiated Tender
+sidebar_position: 5
 ---
 
 # المناقصة المتفاوض عليها

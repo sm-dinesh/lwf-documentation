@@ -1,7 +1,7 @@
 ---
-title: إضافة ملف
-sidebar_label: إضافة ملف
-sidebar_position: 6
+title: Add File
+sidebar_label: add file
+sidebar_position: 5
 ---
 
 # إضافة ملف إلى مذكرة الطلب

@@ -1,7 +1,8 @@
 ---
 id: open-tender-create
-title: المناقصة المفتوحة – إنشاء
-sidebar_label: إنشاء مناقصة
+title: Open Tender – Create
+sidebar_label: Create Tender
+sidebar_position: 1
 ---
 
 # إنشاء مناقصة مفتوحة

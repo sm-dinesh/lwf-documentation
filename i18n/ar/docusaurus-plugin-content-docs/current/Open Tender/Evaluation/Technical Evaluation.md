@@ -1,7 +1,8 @@
 ---
 id: open-tender-technical-evaluation
-title: المناقصة المفتوحة – التقييم الفني
-sidebar_label: التقييم الفني
+title: Open Tender – Technical Evaluation
+sidebar_label: Technical Evaluaiton
+sidebar_position: 4
 ---
 
 ## قائمة العطاءات للتقييم

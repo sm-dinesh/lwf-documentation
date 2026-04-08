@@ -1,7 +1,8 @@
 ---
 id: open-tender-publish
-title: Licitación abierta – Publicar
-sidebar_label: Publicar borrador de licitación
+title: Open Tender – Publish
+sidebar_label: Publish Tender
+sidebar_position: 2
 ---
 
 # Publicar licitación abierta

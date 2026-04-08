@@ -1,7 +1,8 @@
 ---
 id: open-tender-purchase-order
-title: Відкритий тендер – Замовлення на купівлю
-sidebar_label: Замовлення на купівлю
+title: Open Tender – Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 10
 ---
 
 ## Доступ до замовлення на купівлю

@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-edit
-title: Procédure simplifiée – Modifier
-sidebar_label: Modifier un approvisionnement
+title: Simple Procurement – Edit
+sidebar_label: Edit Procurement
+sidebar_position: 6
 ---
 
 # Modifier une procédure simplifiée

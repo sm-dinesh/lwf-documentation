@@ -1,3 +1,10 @@
+---
+id: settings-management-teams-purchase-order
+title: Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 1
+---
+
 # Замовлення на купівлю
 
 ## Доступ до замовлень на купівлю

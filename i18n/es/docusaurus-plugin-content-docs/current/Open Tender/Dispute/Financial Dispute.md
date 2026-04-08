@@ -1,3 +1,10 @@
+---
+id: open_tender_financial_evaluation_dispute
+title: Financial Dispute
+sidebar_label: Financial
+sidebar_position: 3
+---
+
 ## Disputa de evaluación financiera
 
 Una **disputa financiera** ocurre cuando los evaluadores ingresan **diferentes valores financieros o puntuaciones** para el mismo criterio.

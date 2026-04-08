@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-purchase-order
-title: المشتريات البسيطة – أمر الشراء
-sidebar_label: أمر الشراء
+title: Simple Procurement – Purchase Order
+sidebar_label: Purchase Order
+sidebar_position: 8
 ---
 
 ## الوصول إلى أمر الشراء

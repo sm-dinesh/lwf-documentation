@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-criteria-update
-title: Спрощені закупівлі – Критерії оцінки
-sidebar_label: Критерії оцінки
+title: Simple Procurement – Evaluation Criteria
+sidebar_label: Evaluation Criteria
+sidebar_position: 3
 ---
 
 # Критерії оцінки

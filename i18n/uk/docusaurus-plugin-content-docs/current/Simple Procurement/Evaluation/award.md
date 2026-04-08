@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-award
-title: Спрощені закупівлі – Процес присудження
-sidebar_label: Процес присудження
+title: Simple Procurement – Award Process
+sidebar_label: Award bid
+sidebar_position: 4
 ---
 
 ## Доступ до запрошень та пропозицій

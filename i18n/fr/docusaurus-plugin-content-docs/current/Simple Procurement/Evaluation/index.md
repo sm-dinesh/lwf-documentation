@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-index
-title: Procédure simplifiée – Évaluation
-sidebar_label: Évaluation des offres
+title: Simple Procurement – Evaluation
+sidebar_label: Bid Evaluation
+sidebar_position: 7
 ---
 
 # Évaluation

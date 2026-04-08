@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-template-edit
-title: المشتريات البسيطة – إدارة النماذج
-sidebar_label: إدارة النماذج
+title: Simple Procurement – Template Management
+sidebar_label: Template Management
+sidebar_position: 4
 ---
 
 # إدارة النماذج

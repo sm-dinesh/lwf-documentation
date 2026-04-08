@@ -1,7 +1,7 @@
 ---
-title: Додати файл
-sidebar_label: Додати файл
-sidebar_position: 6
+title: Add File
+sidebar_label: add file
+sidebar_position: 5
 ---
 
 # Додати файл до Заявки на закупівлю

@@ -1,7 +1,8 @@
 ---
 id: open-tender-edit
-title: Appel d'offres ouvert – Modifier
-sidebar_label: Modifier l'appel d'offres
+title: Open Tender – Edit
+sidebar_label: Edit Tender
+sidebar_position: 5
 ---
 
 # Modifier l'appel d'offres ouvert

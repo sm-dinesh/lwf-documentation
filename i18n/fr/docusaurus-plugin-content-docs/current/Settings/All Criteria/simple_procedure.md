@@ -1,5 +1,7 @@
 ---
-sidebar_position: 5
+title: Simple Procurement
+sidebar_label: Simple Procurement
+sidebar_position: 4
 ---
 
 # Critères de passation de marché simple

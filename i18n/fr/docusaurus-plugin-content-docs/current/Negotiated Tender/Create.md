@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-create
-title: Appel d'offres négocié – Créer
-sidebar_label: Créer un appel d'offres
+title: Negotiated Tender – Create
+sidebar_label: Create Tender
+sidebar_position: 1
 ---
 
 # Créer un appel d'offres négocié

@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-criteria-update
-title: المناقصة المتفاوض عليها – معايير التقييم
-sidebar_label: معايير التقييم
+title: Negotiated Tender – Evaluation Criteria
+sidebar_label: Evaluaiton Criteria
+sidebar_position: 3
 ---
 
 # معايير التقييم

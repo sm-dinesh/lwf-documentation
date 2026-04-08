@@ -1,7 +1,8 @@
 ---
 id: open-tender-award-cancel
-title: Cancelar adjudicación
-sidebar_label: Cancelar adjudicación
+title: Award Cancel
+sidebar_label: Award Cancel
+sidebar_position: 8
 ---
 
 ## Cancelación de la adjudicación

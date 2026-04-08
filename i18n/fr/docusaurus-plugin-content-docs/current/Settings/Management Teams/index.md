@@ -1,3 +1,9 @@
+---
+title: Management Teams
+sidebar_label: Management Teams
+sidebar_position: 1
+---
+
 # Équipes de gestion
 
 La section **Équipes de gestion** permet aux administrateurs de gérer les membres de l'équipe impliqués dans les processus d'évaluation et de bon de commande.

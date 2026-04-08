@@ -1,7 +1,8 @@
 ---
 id: open-tender-criteria-update
-title: Licitación abierta – Criterios de evaluación
-sidebar_label: Criterios de evaluación
+title: Open Tender – Evaluation Criteria
+sidebar_label: Evaluation Criteria
+sidebar_position: 3
 ---
 
 # Criterios de evaluación

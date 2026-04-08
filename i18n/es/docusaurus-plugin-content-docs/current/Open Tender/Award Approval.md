@@ -1,7 +1,8 @@
 ---
 id: open-tender-award-approal
-title: Aprobación de la adjudicación
-sidebar_label: Aprobación de la adjudicación
+title: Award Approval
+sidebar_label: Award Approval
+sidebar_position: 7
 ---
 
 El proceso de **Aprobación de la Adjudicación** se utiliza para finalizar y aprobar al licitador seleccionado después de que se haya completado la evaluación.

@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-edit
-title: Licitación Negociada – Editar
-sidebar_label: Editar Licitación
+title: Negotiated Tender – Edit
+sidebar_label: Edit Tender
+sidebar_position: 6
 ---
 
 # Editar Licitación Negociada

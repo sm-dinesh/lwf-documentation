@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-criteria-update
-title: Contratación simplificada – Criterios de evaluación
-sidebar_label: Criterios de evaluación
+title: Simple Procurement – Evaluation Criteria
+sidebar_label: Evaluation Criteria
+sidebar_position: 3
 ---
 
 # Criterios de evaluación

@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation-review-process
-title: Contratación simplificada – Proceso de revisión de evaluación
-sidebar_label: Proceso de revisión de evaluación
+title: Simple Procurement – Evaluation Review Process
+sidebar_label: Send Evaluation For review
+sidebar_position: 3
 ---
 
 ## Enviar para revisión

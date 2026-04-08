@@ -1,7 +1,8 @@
 ---
 id: open-tender-send-doi
-title: Licitación abierta – Enviar para DOI
-sidebar_label: Enviar para DOI
+title: Open Tender – Send for Doi
+sidebar_label: Send for Doi
+sidebar_position: 1
 ---
 
 ## Configuración del equipo de evaluación

@@ -1,3 +1,10 @@
+---
+id: open_tender_financial_evaluation_dispute
+title: Financial Dispute
+sidebar_label: Financial
+sidebar_position: 3
+---
+
 ## نزاع التقييم المالي
 
 يحدث **النزاع المالي** عندما يدخل المقيمون **قِيماً مالية أو درجات مختلفة** لنفس المعيار.

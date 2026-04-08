@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-publish
-title: المناقصة المتفاوض عليها – نشر
-sidebar_label: نشر المناقصة
+title: Negotiated Tender – Publish
+sidebar_label: Publish Tender
+sidebar_position: 2
 ---
 
 # نشر المناقصة المتفاوض عليها

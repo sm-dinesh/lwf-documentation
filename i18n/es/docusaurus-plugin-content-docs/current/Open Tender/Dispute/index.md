@@ -1,7 +1,8 @@
 ---
 id: dispute
-title: Disputa
-sidebar_label: Disputa
+title: Dispute
+sidebar_label: Dispute
+sidebar_position: 9
 ---
 
 ## ¿Qué es una disputa?

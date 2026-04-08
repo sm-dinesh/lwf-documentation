@@ -1,7 +1,8 @@
 ---
 id: open-tender-edit
-title: Licitación abierta – Editar
-sidebar_label: Editar licitación
+title: Open Tender – Edit
+sidebar_label: Edit Tender
+sidebar_position: 5
 ---
 
 # Editar licitación abierta

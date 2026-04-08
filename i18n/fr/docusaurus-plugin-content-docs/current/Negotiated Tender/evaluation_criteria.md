@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-criteria-update
-title: Appel d'offres négocié – Critères d'évaluation
-sidebar_label: Critères d'évaluation
+title: Negotiated Tender – Evaluation Criteria
+sidebar_label: Evaluaiton Criteria
+sidebar_position: 3
 ---
 
 # Critères d'évaluation

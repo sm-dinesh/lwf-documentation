@@ -1,7 +1,8 @@
 ---
 id: open-tender-criteria-update
-title: المناقصة المفتوحة – معايير التقييم
-sidebar_label: معايير التقييم
+title: Open Tender – Evaluation Criteria
+sidebar_label: Evaluation Criteria
+sidebar_position: 3
 ---
 
 # معايير التقييم

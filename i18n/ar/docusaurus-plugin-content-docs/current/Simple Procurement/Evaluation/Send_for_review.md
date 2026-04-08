@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation-review-process
-title: المشتريات البسيطة – عملية مراجعة التقييم
-sidebar_label: عملية مراجعة التقييم
+title: Simple Procurement – Evaluation Review Process
+sidebar_label: Send Evaluation For review
+sidebar_position: 3
 ---
 
 ## إرسال للمراجعة
