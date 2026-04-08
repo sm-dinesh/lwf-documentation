@@ -1,7 +1,7 @@
 ---
 title: Send For Review
-sidebar_label: Send For Review
-sidebar_position: 7
+sidebar_label: send for review
+sidebar_position: 6
 ---
 
 # Send Demand Note for Review

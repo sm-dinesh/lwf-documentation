@@ -2,6 +2,7 @@
 id: open-tender-administrative-evaluation
 title: Open Tender – Administrative Evaluation
 sidebar_label: Administrative Evaluation
+sidebar_position: 3
 ---
 
 ## Bid List for Evaluation

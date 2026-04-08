@@ -1,7 +1,7 @@
 ---
 title: Edit Demand Note
-sidebar_label: Edit
-sidebar_position: 5
+sidebar_label: edit
+sidebar_position: 4
 ---
 
 # Edit Demand Note

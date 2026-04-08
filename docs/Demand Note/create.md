@@ -1,7 +1,7 @@
 ---
 title: Create Demand Note
-sidebar_label: Create
-sidebar_position: 3
+sidebar_label: create
+sidebar_position: 2
 ---
 
 ### Creating the Demand Note

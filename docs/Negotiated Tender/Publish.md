@@ -2,6 +2,7 @@
 id: negotiated-tender-publish
 title: Negotiated Tender – Publish
 sidebar_label: Publish Tender
+sidebar_position: 2
 ---
 
 # Publish Negotiated Tender

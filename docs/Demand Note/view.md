@@ -1,7 +1,7 @@
 ---
 title: View Demand Note Details
-sidebar_label: View
-sidebar_position: 4
+sidebar_label: view
+sidebar_position: 3
 ---
 
 # View Demand Note

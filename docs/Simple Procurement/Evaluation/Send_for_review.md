@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation-review-process
 title: Simple Procurement – Evaluation Review Process
-sidebar_label: Evaluation Review Process
+sidebar_label: Send Evaluation For review
+sidebar_position: 3
 ---
 
 ## Send for Review

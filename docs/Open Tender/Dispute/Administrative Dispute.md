@@ -2,6 +2,7 @@
 id: open_tender_administrative_evaluation
 title: Administrative Dispute
 sidebar_label: Administrative
+sidebar_position: 1
 ---
 
 ## Dispute Entry Point (Bids Table)

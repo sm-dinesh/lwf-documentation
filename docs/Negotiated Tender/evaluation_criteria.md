@@ -1,7 +1,8 @@
 ---
 id: negotiated-tender-criteria-update
 title: Negotiated Tender – Evaluation Criteria
-sidebar_label: Evaluation Criteria
+sidebar_label: Evaluaiton Criteria
+sidebar_position: 3
 ---
 
 # Evaluation Criteria

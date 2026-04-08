@@ -1,7 +1,8 @@
 ---
 id: open-tender-technical-evaluation
 title: Open Tender – Technical Evaluation
-sidebar_label: Technical Evaluation
+sidebar_label: Technical Evaluaiton
+sidebar_position: 4
 ---
 
 ## Bid List for Evaluation

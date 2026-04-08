@@ -2,6 +2,7 @@
 id: simple-procurement-index
 title: Simple Procurement – Evaluation
 sidebar_label: Bid Evaluation
+sidebar_position: 7
 ---
 
 # Evaluation

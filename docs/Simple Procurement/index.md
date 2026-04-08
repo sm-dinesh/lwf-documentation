@@ -2,7 +2,7 @@
 id: simple-procurement-index
 title: Simple Procurement
 sidebar_label: Simple Procurement
-sidebar_position: 3
+sidebar_position: 6
 ---
 
 # Simple Procurement

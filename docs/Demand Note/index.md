@@ -1,7 +1,7 @@
 ---
 title: Demand Note
 sidebar_label: Demand Note
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 ### Accessing the Module

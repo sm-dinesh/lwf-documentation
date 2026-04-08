@@ -2,6 +2,7 @@
 id: open_tender_technical_evaluation
 title: Technical Dispute
 sidebar_label: Technical
+sidebar_position: 2
 ---
 
 

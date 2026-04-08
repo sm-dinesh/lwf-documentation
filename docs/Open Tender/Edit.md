@@ -2,6 +2,7 @@
 id: open-tender-edit
 title: Open Tender – Edit
 sidebar_label: Edit Tender
+sidebar_position: 5
 ---
 
 # Edit Open Tender

@@ -2,6 +2,7 @@
 id: open-tender-award-cancel
 title: Award Cancel
 sidebar_label: Award Cancel
+sidebar_position: 8
 ---
 
 

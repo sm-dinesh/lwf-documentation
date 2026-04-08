@@ -1,8 +1,8 @@
 ---
 id: negotiated-tender-index
-title: Negotiated Tender
-sidebar_label: Negotiated Tender
-sidebar_position: 2
+title: Neogotiated Tender
+sidebar_label: Neogotiated Tender
+sidebar_position: 5
 ---
 
 # Negotiated Tender

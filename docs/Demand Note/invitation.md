@@ -1,7 +1,7 @@
 ---
-title: Invitation
-sidebar_label: Invitation
-sidebar_position: 8
+title: Invitation Review
+sidebar_label: Invitation Review
+sidebar_position: 7
 ---
 
 # Demand Note Invitation

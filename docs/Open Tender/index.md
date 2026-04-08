@@ -2,7 +2,7 @@
 id: open-tender-index
 title: Open Tender
 sidebar_label: Open Tender
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 # Open Tender

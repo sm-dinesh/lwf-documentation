@@ -1,3 +1,10 @@
+---
+id: open_tender_financial_evaluation_dispute
+title: Financial Dispute
+sidebar_label: Financial
+sidebar_position: 3
+---
+
 ## Financial Evaluation Dispute
 
 A **Financial Dispute** occurs when evaluators enter **different financial values or scores** for the same criterion.

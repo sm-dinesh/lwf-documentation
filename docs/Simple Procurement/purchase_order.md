@@ -2,6 +2,7 @@
 id: simple-procurement-purchase-order
 title: Simple Procurement – Purchase Order
 sidebar_label: Purchase Order
+sidebar_position: 8
 ---
 
 ## Access Purchase Order

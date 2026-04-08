@@ -1,7 +1,8 @@
 ---
 id: open-tender-send-doi
-title: Open Tender – Send for DOI
-sidebar_label: Send for DOI
+title: Open Tender – Send for Doi
+sidebar_label: Send for Doi
+sidebar_position: 1
 ---
 
 ## Evaluation Team Setup

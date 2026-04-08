@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-award
 title: Simple Procurement – Award Process
-sidebar_label: Award Process
+sidebar_label: Award bid
+sidebar_position: 4
 ---
 
 ## Invitation & Bids Access

@@ -1,5 +1,7 @@
 ---
-sidebar_position: 4
+title: Negotiated Tender
+sidebar_label: Negotiated Tender
+sidebar_position: 3
 ---
 
 # Negotiated Tender Criteria

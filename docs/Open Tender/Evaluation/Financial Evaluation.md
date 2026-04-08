@@ -1,7 +1,8 @@
 ---
 id: open-tender-financial-evaluation
 title: Open Tender – Financial Evaluation
-sidebar_label: Financial Evaluation
+sidebar_label: Financial Evaluaiton
+sidebar_position: 5
 ---
 
 ## Bid List for Evaluation

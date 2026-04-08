@@ -1,7 +1,7 @@
 ---
 title: List Demand Note
 sidebar_label: List
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 ### Navigating the Listing Page

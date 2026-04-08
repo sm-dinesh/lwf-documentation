@@ -1,7 +1,8 @@
 ---
 id: simple-procurement-evaluation
 title: Simple Procurement Evaluation
-sidebar_label: Evaluation Process
+sidebar_label: Evaluate bids
+sidebar_position: 1
 ---
 
 # Simple Procurement Evaluation

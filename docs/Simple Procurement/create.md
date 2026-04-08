@@ -2,6 +2,7 @@
 id: simple-procurement-create
 title: Simple Procurement – Create
 sidebar_label: Create Procurement
+sidebar_position: 1
 ---
 
 # Create Simple Procurement

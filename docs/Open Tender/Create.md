@@ -2,6 +2,7 @@
 id: open-tender-create
 title: Open Tender – Create
 sidebar_label: Create Tender
+sidebar_position: 1
 ---
 
 # Create Open Tender

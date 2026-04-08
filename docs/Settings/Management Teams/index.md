@@ -1,3 +1,9 @@
+---
+title: Management Teams
+sidebar_label: Management Teams
+sidebar_position: 1
+---
+
 # Management Teams
 
 The **Management Teams** section allows administrators to manage team members involved in evaluation and purchase order processes.

@@ -2,6 +2,7 @@
 id: simple-procurement-invitations
 title: Simple Procurement – Vendor Invitations
 sidebar_label: Vendor Invitations
+sidebar_position: 5
 ---
 
 # Vendor Invitations

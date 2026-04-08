@@ -2,6 +2,7 @@
 id: dispute
 title: Dispute
 sidebar_label: Dispute
+sidebar_position: 9
 ---
 
 ## What is a Dispute?

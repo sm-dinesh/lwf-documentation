@@ -2,6 +2,7 @@
 id: negotiated-tender-edit
 title: Negotiated Tender – Edit
 sidebar_label: Edit Tender
+sidebar_position: 6
 ---
 
 # Edit Negotiated Tender

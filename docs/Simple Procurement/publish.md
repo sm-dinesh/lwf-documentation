@@ -2,6 +2,7 @@
 id: simple-procurement-publish
 title: Simple Procurement – Publish
 sidebar_label: Publish Procurement
+sidebar_position: 2
 ---
 
 # Publish Simple Procurement

@@ -1,7 +1,7 @@
 ---
 title: Add File
-sidebar_label: Add File
-sidebar_position: 6
+sidebar_label: add file
+sidebar_position: 5
 ---
 
 # Add File to Demand Note

@@ -1,7 +1,8 @@
 ---
 id: open-tender-publish
 title: Open Tender – Publish
-sidebar_label: Publish Draft Tender
+sidebar_label: Publish Tender
+sidebar_position: 2
 ---
 
 # Publish Open Tender

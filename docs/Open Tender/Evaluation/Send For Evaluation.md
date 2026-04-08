@@ -1,7 +1,8 @@
 ---
 id: open-tender-send-for-evaluation
-title: Open Tender – Send for Evaluation
-sidebar_label: Send for Evaluation
+title: Open Tender – Start Evaluaiton
+sidebar_label: Start Evaluaiton
+sidebar_position: 2
 ---
 
 ## Open Bids

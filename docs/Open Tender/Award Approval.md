@@ -2,6 +2,7 @@
 id: open-tender-award-approal
 title: Award Approval
 sidebar_label: Award Approval
+sidebar_position: 7
 ---
 
 

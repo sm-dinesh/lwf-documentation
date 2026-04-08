@@ -2,6 +2,7 @@
 id: simple-procurement-evaluation-summary
 title: Simple Procurement – Evaluation Summary
 sidebar_label: Evaluation Summary
+sidebar_position: 2
 ---
 
 ## Invitation Page
