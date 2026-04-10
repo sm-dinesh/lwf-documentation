@@ -1,7 +1,7 @@
 ---
 id: settings-management-teams-evaluation
-title: Evaluaiton
-sidebar_label: Evaluaiton
+title: Evaluation
+sidebar_label: Evaluation
 sidebar_position: 2
 ---
 
