@@ -15,11 +15,8 @@ const config = {
   favicon: 'https://lwfeprocurements.org/static/images/favicon.png',
 
   // Set the production url of your site here
-  // url: 'https://sm-dinesh.github.io',
-  // baseUrl: '/lwf-documentation/',
   url: 'https://sm-dinesh.github.io',
   baseUrl: '/lwf-documentation/',
-
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   trailingSlash: true,
