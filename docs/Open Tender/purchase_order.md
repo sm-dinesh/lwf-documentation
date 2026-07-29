@@ -2,14 +2,14 @@
 id: open-tender-purchase-order
 title: Open Tender – Purchase Order
 sidebar_label: Purchase Order
-sidebar_position: 10
+sidebar_position: 12
 ---
 
 ## Access Purchase Order
 
 ![Purchase Order Button](/img/open_tender/purchase_orders/purchase_order.png)
 
-- From the invitation listing page, click this button to navigate to the **Purchase Order** section.
+- From the award Templates Dropdown select purchase order and click send to navigate to the **Purchase Order** section.
 
 ---
 
