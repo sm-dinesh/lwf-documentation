@@ -2,7 +2,7 @@
 id: open-tender-award-Rejected
 title: Award Rejected  
 sidebar_label: Award Rejected  
-sidebar_position: 14
+sidebar_position: 2
 ---
 
 ## Rejecting the Bid
