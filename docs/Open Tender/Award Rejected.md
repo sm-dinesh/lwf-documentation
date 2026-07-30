@@ -18,11 +18,11 @@ sidebar_position: 14
 If the award is **rejected**, it is automatically assigned to the **next highest-scoring bidder**.
 
 
-![Award Approval](/img/open_tender/evaluation/approval/award_approal_rejected.png)
+![Award Approval](/img/open_tender/evaluation/approval/award_approval_rejected.png)
 
 1. Rank showing top bidder
 2. Status showing Rejected
-3. Send Rank Bid
+3. Second Rank Bid
 4. Award Approval Button for second-ranked bidder
 
 - Click **Award Approval Button**

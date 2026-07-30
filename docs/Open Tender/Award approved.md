@@ -59,7 +59,7 @@ Inside the edit modal:
 
 
 ## Awarding Bid
--   After offer letter send is edited, click **Award Bid** Button
+-   After offer letter is edited, click **Award Bid** Button
 
 ![Award Approval](/img/open_tender/evaluation/approval/award_approval_awardBid.png)
 
@@ -82,11 +82,11 @@ Once the vendor uploads the Offer Letter
 ![Award Approval](/img/open_tender/evaluation/approval/award_approval_awardTemplate.png)
 
 1. **Download Offer Letter**
-    - Users can download the uploaded Offer Letter.
+    - Download the uploaded Offer Letter.
 
 2. **Select Award Template**
-    - A new pop-up modal is displayed.
-    - Users can select the desired Award Template from the modal.
+    - A new pop-up modal is displayed. 
+    - select the desired Award Template from the modal.
 
 ## selecting Award Template
 
