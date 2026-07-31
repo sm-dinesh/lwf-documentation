@@ -2,7 +2,7 @@
 id: open-tender-purchase-order
 title: Open Tender – Purchase Order
 sidebar_label: Purchase Order
-sidebar_position: 12
+sidebar_position: 3
 ---
 
 ## Access Purchase Order

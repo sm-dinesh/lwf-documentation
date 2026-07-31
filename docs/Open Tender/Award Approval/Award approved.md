@@ -2,7 +2,7 @@
 id: open-tender-award-approved 
 title: Award Approved
 sidebar_label: Award Approved
-sidebar_position: 11
+sidebar_position: 1
 ---
 
 ## If Award is Approved
