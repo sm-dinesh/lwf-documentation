@@ -23,7 +23,7 @@ The **Award Approval** process is used to approve and award the highest score  b
 3.	Award approval Team
     - Opens a modal to add approval members
 ---  
-**NOTE:**. At least ****2 members are required****.
+
 
 ## Selecting Approval Team
 
@@ -32,6 +32,8 @@ The **Award Approval** process is used to approve and award the highest score  b
 1. Team Select Dropdown
     - Allows selecting individual members
 2. OK Button to save
+
+**NOTE:**. At least ****2 members are required****.
 
 ---  
 
@@ -45,7 +47,7 @@ Once the approval team is selected and clicked Ok button, the system **automatic
     - Can be used to manually send notifications
 
 
-## Notification Process
+## Notification flow
 
 The award approval process follows a **sequential approval workflow**.
 

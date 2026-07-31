@@ -1,7 +1,7 @@
 ---
 id: open-tender-evaluation-summary
 title: Open Tender – Evaluation Summary
-sidebar_label: Evaluaiton Summary
+sidebar_label: Evaluation Summary
 sidebar_position: 6
 ---
 
