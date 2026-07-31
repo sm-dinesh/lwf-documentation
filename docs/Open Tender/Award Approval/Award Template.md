@@ -7,13 +7,13 @@ sidebar_position: 5
 
 ## Access Award Template
   Click the **Award Templates** button.
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_templateSelect.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_templateSelect.png)
 
 
 1.  The **Award Template** pop-up modal appears. 
 2. Select the appropriate template from the **Template** dropdown. 
 
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_field.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_field.png)
 1.  Selecting an **Award Template** displays the **Raised From** dropdown. 
 2. Select the appropriate **Raised From** option (**Field** or **Head Office**). 
 3. Click **Submit** to send the selected award template to the awarded vendor.
@@ -21,7 +21,7 @@ sidebar_position: 5
 ## Award Template Details Page
 
 ### Basic Details 
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_basicTab.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_basicTab.png)
 
 The **Basic Details** tab displays a summary of the award template, including:
 
@@ -35,7 +35,7 @@ The **Basic Details** tab displays a summary of the award template, including:
 - Delivery Status 
 
 ### Templates 
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_template.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_template.png)
 
 The Templates tab shows the selected documents
 
@@ -99,19 +99,19 @@ Inside the edit modal:
 ### Order Items
 
 displays order items informations
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_orderNo.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_orderNo.png)
 
 ### Vendor Uploaded documents
 
 downloads the templates uploaded by the vendor
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_vendorDoc.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_vendorDoc.png)
 ---
 
 
 
 ## Send for Review
 
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_reviewSend.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_reviewSend.png)
 
 - Click to send the Award Templates for review.
 
@@ -119,7 +119,7 @@ downloads the templates uploaded by the vendor
 
 ## Review Modal
 
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_review.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_review.png)
 
 ### 1. Reviewer Field
 - Select reviewer(s).
@@ -133,8 +133,7 @@ downloads the templates uploaded by the vendor
 ---
 **Note** : At least **2 members are required**
 ## Review Email
-
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_reviewEmail.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_reviewEmail.png)
 
 - Reviewer receives an email notification.
 - Click **Review** to open the Award Template
@@ -143,7 +142,7 @@ downloads the templates uploaded by the vendor
 
 ## Approve 
 
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_approvalDetails.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_approvalDetails.png)
 
 1.  Basic Details: includes summary about Award Template
    2.  Offer Letter:
@@ -154,21 +153,21 @@ downloads the templates uploaded by the vendor
 - Reviewer can:
     - **Approve** the Award Template
 
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_approve.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_approve.png)
 ---
 
 ## Approved Status Emailer
 An email is sent once all reviewers and authorizers approve the bid approval request.
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_template_approved.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_template_approved.png)
 
 ---
 ### Delivery Status
 
  **Pending:** status is pending until the vendor upload the document.
 
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_pendingStatus.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_pendingStatus.png)
 
 After vendor uploads document, can **update Delivery Status**
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_deliveryStatus.png)
-![Purchase Order Button](/img/open_tender/evaluation/award_template/award_template_deliveryStatusApprove.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_deliveryStatus.png)
+![Award Template](/img/open_tender/evaluation/award_template/award_template_deliveryStatusApprove.png)
 
