@@ -94,6 +94,5 @@ While editing, you can also:
 
 ## Next Steps
 
-1. **[Publish Tender](./publish)** – Make the tender active (if in Draft status)
-2. **[Manage Bid Invitations](./open-tender-bid-invitations)** – Invite bidders (if needed)
-3. **[View Template Settings](./template)** – Configure document templates
+1. **[Publish Tender](./publish.md)** – Make the tender active (if in Draft status)
+2. **[View Template Settings](./template)** – Configure document templates
