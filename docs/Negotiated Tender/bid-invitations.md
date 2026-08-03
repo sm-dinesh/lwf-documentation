@@ -48,16 +48,20 @@ This page displays:
 
 ## Inviting Suppliers
 
-### Step 1: Click Invite Supplier Button
+### Step 1: Click Invitation Button
 
-- Click the **Invite Supplier** button to open the invitation modal
+- Click the **Invitation** button to open the invitation modal
+  ![Tender Invitation](/img/negotiated_tender/nego_tender_invite.png)
 
 ### Step 2: Select Supplier or Enter Email
+![Tender Invitation](/img/negotiated_tender/nego_tender_invitation_send.png)
+
+1.  **Click the Invite Vendors Button** -Vendor invitation modal appears
 
 Inside the modal:
 
-1. **Select Supplier or Type Email** – Choose from existing registered suppliers or type a new email address
-2. **Send Button** – Sends the invitation to the selected supplier(s)
+2.  **Select Supplier or Type Email** – Choose from existing registered suppliers or type a new email address 
+3. **Send Button** – Sends the invitation to the selected supplier(s)
 
 ---
 
