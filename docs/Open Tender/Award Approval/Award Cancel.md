@@ -15,7 +15,7 @@ The **Award Cancellation** process is used to cancel an already approved award a
 
 ## Initiating Award Cancellation
 
-![Award Cancel](/img/open_tender/evaluation/award_cancel/award_cancel.png)
+![Award Cancel](/img/open_tender/evaluation/award_cancel/award_cancel_btn.png)
 
 - Clicking the **Award Cancel Button** opens a modal to start the cancellation process.
 
@@ -26,7 +26,7 @@ The **Award Cancellation** process is used to cancel an already approved award a
 ![Award Cancel](/img/open_tender/evaluation/award_cancel/award_cancel_model.png)
 
 1. Award Cancel Button (triggers modal)  
-2. Award Cancel Reason  
+2. Reason for Cancelling the award
 3. Submit Button  
 
 > Submitting will **trigger an email notification** to the approval team.
