@@ -13,41 +13,6 @@ The **Edit** page allows users to update details of an existing Negotiated Tende
 This is typically used when corrections or updates are required before or after publishing (depending on permissions).
 
 ---
-
-## Fields for Editing
-
-The following fields can be edited:
-
-1. **Name**  
-   Update the tender title to better reflect the purpose or scope
-
-2. **Category**  
-   Select or modify the procurement category (e.g., Goods, Services, Works)
-
-3. **Description**  
-   Update the detailed description of procurement scope and requirements
-
-4. **Terms and Conditions**  
-   Define or revise the rules, requirements, and obligations for suppliers
-
-5. **Published Date**  
-   Set or adjust the date when the tender becomes officially published
-
-6. **Submission Date**  
-   Specify the deadline for suppliers to submit their proposals
-
-7. **Opening Date**  
-   Define the date when submitted proposals will be opened and reviewed
-
-8. **Code**  
-   Update the unique tender code (if allowed before publishing)
-
-9. **Update Note** *(Required)*  
-   Provide a reason or description for the changes made  
-   This ensures proper tracking and audit history of updates
-
----
-
 ## How to Edit
 
 1. Open the Negotiated Tender record
@@ -55,6 +20,44 @@ The following fields can be edited:
 3. Update the required fields
 4. Enter a detailed **Update Note** explaining the changes
 5. Save the changes
+
+## Step 1:
+![Nego Tender Edit](/img/negotiated_tender/nego_tender_edit.png)
+
+## step 2:
+![Nego Tender Edit](/img/negotiated_tender/nego_tender_fields_edit.png)
+
+## Fields for Editing
+The following fields can be edited:
+1. **Name**  
+   Update the tender title to better reflect the purpose or scope
+2.  **Code**  
+    Update the unique tender code (if allowed before publishing)
+
+3. **Category**  
+   Select or modify the procurement category (e.g., Goods, Services, Works)
+
+4. **Description**  
+   Update the detailed description of procurement scope and requirements
+
+5. **Terms and Conditions**  
+   Define or revise the rules, requirements, and obligations for suppliers
+
+6. **Published Date**  
+   Set or adjust the date when the tender becomes officially published
+
+7. **Submission Date**  
+   Specify the deadline for suppliers to submit their proposals
+
+8. **Opening Date**  
+   Define the date when submitted proposals will be opened and reviewed
+
+## step 3:
+![Nego Tender Edit](/img/negotiated_tender/nego_tender_update.png)
+1. **Update Note** *(Required)*  
+   Provide a reason or description for the changes made  
+   This ensures proper tracking and audit history of updates 
+2. click on **update** button
 
 ---
 
