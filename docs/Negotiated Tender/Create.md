@@ -124,6 +124,6 @@ Fill in the following fields carefully:
 
 After creating your Negotiated Tender, you can:
 
-- **[Edit the Tender](./Edit)** – Make changes if needed before or after publishing
-- **[Manage Templates](./template)** – Add or edit contract templates
-- **[Configure Evaluation Criteria](./evaluation_criteria)** – Set up bid evaluation parameters
+- **[Edit the Tender](./Edit.md)** – Make changes if needed before or after publishing
+- **[Manage Templates](./template.md)** – Add or edit contract templates
+- **[Configure Evaluation Criteria](./evaluation_criteria.md)** – Set up bid evaluation parameters

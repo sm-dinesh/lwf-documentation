@@ -14,7 +14,7 @@ Once all approval team members approve the award, the **Awarded** button is disp
 
 1. Award Button display.
 2. Attach offer letter
-3. cancel award
+3. [Cancel Award](./Award%20Cancel.md)
 
 ## Attaching Offer Letter
 
