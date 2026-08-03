@@ -1,6 +1,6 @@
 ---
-id: open-tender-send-for-evaluation
-title: Open Tender – Start Evaluaiton
+id: negotiated-tender-send-for-evaluation
+title: Negotiated Tender – Start Evaluation
 sidebar_label: Start Evaluation
 sidebar_position: 2
 ---

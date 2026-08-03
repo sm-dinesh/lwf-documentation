@@ -133,7 +133,6 @@ Inside the edit modal:
 
 ## Next Steps
 
-1. **[Configure Evaluation Criteria](./evaluation_criteria)** – Set up bid evaluation
-2. **[Tender Review & Publishing](./Create)** – Finalize tender details
-3. **Monitor Bid Submissions** – Track incoming bids
-4. **Evaluation Phase** – Score bids using configured criteria
+1. **[Configure Evaluation Criteria](./evaluation_criteria.md)** – Set up bid evaluation
+2. **[Tender Review & Publishing](./Create.md)** – Finalize tender details 
+3. **[Evaluation Phase](../Open%20Tender/Evaluation/index.md)** – Score bids using configured criteria

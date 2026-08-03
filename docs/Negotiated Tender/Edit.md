@@ -65,8 +65,8 @@ The following fields can be edited:
 
 While editing, you can also:
 
-- **[Manage Templates](./template)** – Add or edit contract templates
-- **[Update Evaluation Criteria](./evaluation_criteria)** – Modify bid evaluation criteria
+- **[Manage Templates](./template.md)** – Add or edit contract templates
+- **[Update Evaluation Criteria](./evaluation_criteria.md)** – Modify bid evaluation criteria
 
 ---
 

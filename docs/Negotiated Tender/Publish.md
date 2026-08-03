@@ -12,7 +12,18 @@ sidebar_position: 2
 After creating a Negotiated Tender, it is saved in a **Draft** state by default.  
 In this state, the tender is not visible to invited suppliers and negotiations cannot begin.
 
+![Negotiated Tender Publish](/img/negotiated_tender/nego_tender_draft_edit.png)
+
 To make the tender active and ready for supplier engagement, it must be **published**.
+
+---
+
+## Steps to Publish
+
+1. Click on **Edit** to edit Tender record in **Draft** status
+2. Navigate to the top of the page
+3. Click on the **Publish** button
+4. Confirm the action if a confirmation prompt appears
 
 ---
 
@@ -23,12 +34,7 @@ This button is only available when the tender is in Draft status.
 
 ---
 
-## Steps to Publish
-
-1. Open the Negotiated Tender record in **Draft** status
-2. Navigate to the top of the page  
-3. Click on the **Publish** button  
-4. Confirm the action if a confirmation prompt appears  
+![Negotiated Tender Publish](/img/negotiated_tender/nego_tender_publish.png)
 
 ---
 
@@ -36,7 +42,7 @@ This button is only available when the tender is in Draft status.
 
 Once the tender is published:
 
-- ✅ Status changes from **Draft → Published**
+- ✅ Status changes from **Draft → Current**
 - ✅ Tender becomes visible to invited suppliers
 - ✅ Suppliers can access the tender and submit proposals
 - ✅ Negotiation process can begin
@@ -77,19 +83,7 @@ Once the tender is published:
 
 ---
 
-## Next Steps
 
-After publishing your tender:
-
-1. **[Send Bid Invitations](./bid-invitations)** – Invite selected suppliers  
-2. **Prepare for Proposals** – Notify suppliers and begin engagement
-3. **Monitor Proposal Submissions** – Track incoming proposals
-4. **Review Proposals** – Assess proposal completeness and quality
-5. **Start Negotiations** – Engage suppliers in detailed discussions
-6. **Final Evaluation** – Score proposals using defined criteria
-7. **Award Contract** – Select preferred supplier and negotiate final terms
-
----
 
 ## Timeline Flexibility
 

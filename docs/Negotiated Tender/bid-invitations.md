@@ -18,33 +18,10 @@ Unlike Open Tenders where participation is unrestricted, Negotiated Tenders **re
 - Flexible proposal and contract terms
 - Relationship-based procurement
 
-All invitation management is accessed through the tender **List Page** or **Edit Page**.
+All invitation management is accessed through the tender **List Page**.
 
 ---
 
-## Accessing Invitations
-
-### From Tender List Page
-
-- Click the **Invitation Button** next to a tender to manage bid invitations  
-
-### From Tender Edit Page
-
-- Click the **Invitation Button** on the edit page to open the invitation list  
-
----
-
-## Invitation List Page
-
-This page displays:
-
-- All suppliers invited to the tender  
-- Current status of each invited supplier  
-- Proposal submission status for each supplier  
-- Options to add new supplier invitations  
-- Quick access to proposal evaluation tools
-
----
 
 ## Inviting Suppliers
 
@@ -65,44 +42,6 @@ Inside the modal:
 
 ---
 
-## Supplier Status Tracking
-
-The invitations list displays important information:
-
-- **Supplier Details** – Name, contact, and company information
-- **Invitation Status** – Whether invitation has been sent
-- **Proposal Status** – Whether supplier has submitted proposal
-- **Proposal Completeness** – Whether proposal includes all required documents
-- **Evaluation Status** – Whether proposal has been evaluated
-- **Contact Status** – Last communication date
-- **Quick Actions** – Evaluation button and messaging tools
-
----
-
-## Key Features
-
-✅ **Targeted Selection**
-- Select suppliers based on capability and fit
-- Direct, confidential engagement process
-- Build relationship-based partnerships
-
-✅ **Existing Suppliers**
-- Select from a pre-populated list of registered suppliers
-- Efficient for known capable vendors
-- Maintain supplier database
-
-✅ **New Suppliers**
-- Type email address to invite new suppliers
-- They receive email with tender access
-- Automatically registered in system
-
-✅ **Communication & Tracking**
-- Monitor supplier participation in real-time
-- Track proposal submissions and status
-- Quick access to proposal evaluation
-- Send follow-up communications
-
----
 
 ## Invitation Process
 
@@ -150,30 +89,15 @@ The invitations list displays important information:
 
 ---
 
-## Negotiation Phase
-
-After suppliers receive invitations and submit proposals:
-
-1. **Review Initial Proposals** – Assess proposal quality and completeness
-2. **Preliminary Feedback** – Identify areas for discussion
-3. **Schedule Discussions** – Plan negotiation meetings
-4. **Conduct Negotiations** – Discuss terms, pricing, and conditions
-5. **Refine Terms** – Adjust proposals based on discussions
-6. **Final Evaluation** – Score refined proposals
-7. **Award** – Select preferred supplier and execute contract
-
----
-
 ## Next Steps
 
 After sending invitations:
 
-1. **[Review Tender Details](./Edit)** – Confirm all details remain accurate
-2. **Prepare Evaluation Team** – Organize evaluation resources
-3. **[Review Evaluation Criteria](./evaluation_criteria)** – Confirm evaluation approach
-4. **Monitor Submissions** – Track incoming proposals
-5. **[Configure Templates](./template)** – Ensure contract templates are ready
-6. **Begin Evaluation & Negotiation** – Start the engagement process
+1. **[Review Tender Details](./Edit.md)** – Confirm all details remain accurate
+2. **[Prepare Evaluation Team](./Evaluation/DOI.md)** – Organize evaluation resources
+3. **[Review Evaluation Criteria](./evaluation_criteria)** – Confirm evaluation approach 
+4. **[Configure Templates](./template.md)** – Ensure contract templates are ready
+6. **[Begin Evaluation & Negotiation](./Evaluation/Send%20For%20Evaluation.md)** – Start the engagement process
 
 ---
 

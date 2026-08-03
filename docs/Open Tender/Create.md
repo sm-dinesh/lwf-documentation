@@ -138,7 +138,6 @@ The **Templates** section allows users to manage, edit, and remove document temp
 After creating your Open Tender:
 
 1. **[Manage Templates](./template.md)** – Configure document templates for contract award
-2. **[Review Evaluation Criteria](./evaluation_criteria)** – Ensure evaluation criteria are properly configured
-3. **Monitor Bid Submissions** – Track submissions as they arrive
-4. **Evaluate Bids** – Use configured criteria to assess and score submissions
-5. **Award Contract** – Select the best-evaluated bid and issue award notice
+2. **[Review Evaluation Criteria](./evaluation_criteria)** – Ensure evaluation criteria are properly configured 
+3. **[Evaluate Bids](./Evaluation/Send%20For%20Evaluation.md)** – Use configured criteria to assess and score submissions
+5. **[Award Approval](./Award%20Approval)** – Select the best-evaluated bid and issue award notice

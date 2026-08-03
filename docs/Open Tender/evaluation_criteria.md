@@ -33,7 +33,7 @@ Users can manage criteria directly from the tender **Edit Page** and configure h
 
 ## Criteria List Page
 
-![Criteria List](/img/template/criteria_list_page.png)
+![Criteria List](/img/template/tender_evaluation_criteria.png)
 
 The criteria list page displays:
 
@@ -47,15 +47,14 @@ The criteria list page displays:
 ## Add / Update Criteria
 
 ### Step 1: Click Add / Update Button
-
-![Add / Update Button](/img/template/criteria_add_update_button.png)
+![Add / Update Button](/img/template/criteria_update_btn.png)
 
 - Click the **Add / Update** button  
 - This will open a modal showing all available criteria options  
 
 ### Step 2: Manage Criteria Selection
 
-![Update Criteria Modal](/img/template/criteria_update_modal.png)
+![Update Criteria Modal](/img/template/criteria_modal_update.png)
 
 Inside the modal:
 
@@ -126,29 +125,10 @@ Common evaluation criteria include:
 
 ---
 
-## Important Notes
-
-⚠️ **Before Selecting Criteria:**
-- Ensure selected criteria match tender scope and requirements
-- Align criteria with procurement objectives and budget
-- Consider bidder capabilities when setting criteria
-- Document criteria selection rationale for audit trail
-- Get stakeholder agreement on evaluation approach
-
-⚠️ **After Selecting Criteria:**
-- Modest changes before bid submission are acceptable
-- Major changes after bid opening may be problematic
-- Removing criteria may affect ongoing evaluations
-- Only authorized users can update evaluation criteria
-- Communicate criteria changes to all stakeholders
-- Maintain clear audit trail of all modifications
-
----
 
 ## Next Steps
 
 1. **[Configure Templates](./template)** – Set up award documents and contracts
-2. **[Tender Review & Publishing](./Create)** – Finalize and publish tender
-3. **Monitor Bid Submissions** – Track incoming bids during submission period
-4. **Evaluation Phase** – Score bids using configured criteria
-5. **Award & Contract** – Issue award notice and execute contract
+2. **[Tender Review & Publishing](./Create)** – Finalize and publish tender 
+3. **[Evaluation Phase](./Evaluation/Send%20For%20Evaluation.md)** – Score bids using configured criteria
+5. **[Award Approval](./Award%20Approval/index.md)** – Issue award notice and execute contract

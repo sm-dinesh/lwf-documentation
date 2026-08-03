@@ -64,7 +64,7 @@ The Open Tender process follows these key steps:
 - [Edit Open Tender](./Edit.md)
 - [Evaluation Criteria](./evaluation_criteria.md)
 - [Template Management](./template.md)
-- [Publish Open Tender](./Publish.md)
+- [Publish Open Tender](./)
 - [Bid Invitations](./bid-invitations)
 
 ---

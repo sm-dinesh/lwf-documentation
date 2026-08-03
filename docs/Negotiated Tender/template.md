@@ -134,6 +134,5 @@ Inside the edit modal:
 ## Next Steps
 
 1. **[Configure Evaluation Criteria](./evaluation_criteria)** – Set up evaluation parameters
-2. **[Tender Review & Publishing](./Create)** – Finalize tender details
-3. **Begin Negotiations** – Engage with selected suppliers
-4. **Document Management** – Use templates for contract execution
+2. **[Tender Review & Publishing](./Create.md)** – Finalize tender details
+

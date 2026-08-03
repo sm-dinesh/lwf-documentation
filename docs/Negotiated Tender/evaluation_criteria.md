@@ -133,9 +133,7 @@ Common evaluation criteria for negotiated tenders include:
 
 ## Next Steps
 
-1. **[Configure Templates](./template)** – Set up contract templates
-2. **[Tender Review & Publishing](./Create)** – Finalize tender details
-3. **Identify & Contact Suppliers** – Reach out to selected vendors
-4. **Receive & Evaluate Proposals** – Score proposals against criteria
-5. **Negotiation Phase** – Discuss and refine terms
-6. **Final Award** – Execute contract with selected supplier
+1. **[Configure Templates](./template.md)** – Set up contract templates
+2. **[Tender Review & Publishing](./Create.md)** – Finalize tender details
+3. **[Invite Vendor for Bid](./bid-invitations.md)** – Reach out to selected vendors 
+4. **[Final Award](./Award%20Approval/index.md)** – Execute contract with selected supplier

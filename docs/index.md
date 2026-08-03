@@ -41,21 +41,21 @@ This documentation covers everything you need to:
 
 Lwf eTender supports three main procurement types:
 
-### 1. 🏪 [Simple Procurement](../Simple%20Procurement/index.md)
+### 1. 🏪 [Simple Procurement](Simple Procurement/index.md)
 **For low-value procurements (€200 – €9,999)**
 - Quick Request for Quotation (RFQ) process
 - Pre-identified vendors
 - Streamlined evaluation
 - Fast-track approval
 
-### 2. 🏢 [Open Tender](../Open%20Tender/index.md)
+### 2. 🏢 [Open Tender](Open Tender/index.md)
 **For high-value procurements (€10,000+)**
 - Open and competitive bidding
 - Multiple suppliers welcome
 - Comprehensive evaluation
 - Full transparency and compliance
 
-### 3. 🤝 [Negotiated Tender](../Negotiated%20Tender/index.md)
+### 3. 🤝 [Negotiated Tender](Negotiated Tender/index.md)
 **For specialized procurements**
 - Direct supplier negotiation
 - Limited participant selection
@@ -88,23 +88,23 @@ Lwf eTender supports three main procurement types:
 ## 📖 Quick Links by Task
 
 ### Creating & Managing Tenders
-- [Simple Procurement - Create](../Simple%20Procurement/create.md)
-- [Open Tender - Create](../Open%20Tender/Create.md)
-- [Negotiated Tender - Create](../Negotiated%20Tender/Create.md)
+- [Simple Procurement - Create](Simple Procurement/create.md)
+- [Open Tender - Create](Open Tender/Create.md)
+- [Negotiated Tender - Create](Negotiated Tender/Create.md)
 
 ### Editing & Publishing
-- [Simple Procurement - Edit](../Simple%20Procurement/edit.md)
-- [Simple Procurement - Publish](../Simple%20Procurement/publish.md)
-- [Negotiated Tender - Edit](../Negotiated%20Tender/Edit.md)
+- [Simple Procurement - Edit](Simple Procurement/edit.md)
+- [Simple Procurement - Publish](Simple Procurement/publish.md)
+- [Negotiated Tender - Edit](Negotiated Tender/Edit.md)
 
 ### Vendor Management
-- [Simple Procurement - Vendor Invitations](../Simple%20Procurement/simple-procurement-invitations.md)
+- [Simple Procurement - Vendor Invitations](Simple Procurement/simple-procurement-invitations.md)
 
 ### Configuration
-- [Template Management - Simple](../Simple%20Procurement/template.md)
-- [Evaluation Criteria - Simple](../Simple%20Procurement/update_evaluaton_criteria.md)
-- [Template Management - Open](../Open%20Tender/template.md)
-- [Evaluation Criteria - Open](../Open%20Tender/evaluation_criteria.md)
+- [Template Management - Simple](Simple Procurement/template.md)
+- [Evaluation Criteria - Simple](Simple Procurement/update_evaluaton_criteria.md)
+- [Template Management - Open](Open Tender/template.md)
+- [Evaluation Criteria - Open](Open Tender/evaluation_criteria.md)
 
 ---
 
