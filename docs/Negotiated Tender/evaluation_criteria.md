@@ -1,7 +1,7 @@
 ---
 id: negotiated-tender-criteria-update
 title: Negotiated Tender – Evaluation Criteria
-sidebar_label: Evaluaiton Criteria
+sidebar_label: Evaluation Criteria
 sidebar_position: 3
 ---
 
@@ -33,7 +33,7 @@ Users can manage criteria directly from the tender **Edit Page** and configure h
 
 ## Criteria List Page
 
-![Criteria List](/img/template/criteria_list_page.png)
+![Criteria List](/img/template/tender_evaluation_criteria.png)
 
 The criteria list page displays:
 
@@ -48,14 +48,14 @@ The criteria list page displays:
 
 ### Step 1: Click Add / Update Button
 
-![Add / Update Button](/img/template/criteria_add_update_button.png)
+![Add / Update Button](/img/template/criteria_update_btn.png)
 
 - Click the **Add / Update** button  
 - This will open a modal showing all available criteria options  
 
 ### Step 2: Manage Criteria Selection
 
-![Update Criteria Modal](/img/template/criteria_update_modal.png)
+![Update Criteria Modal](/img/template/criteria_modal_update.png)
 
 Inside the modal:
 
