@@ -1,7 +1,7 @@
 ---
 id: negotiated-tender-index
 title: Negotiated Tender
-sidebar_label: Neogotiated Tender
+sidebar_label: Negotiated Tender
 sidebar_position: 5
 ---
 
@@ -59,12 +59,12 @@ The Negotiated Tender process follows these key steps:
 
 ## 📂 Available Guides
 
-- [Create Negotiated Tender](./Create)
-- [Edit Negotiated Tender](./Edit)
-- [Evaluation Criteria](./evaluation_criteria)
-- [Template Management](./template)
-- [Publish Negotiated Tender](./)
-- [Bid Invitations](./bid-invitations)
+- [Create Negotiated Tender](./Create.md)
+- [Edit Negotiated Tender](./Edit.md)
+- [Evaluation Criteria](./evaluation_criteria.md)
+- [Template Management](./template.md)
+- [Publish Negotiated Tender](./Publish.md)
+- [Bid Invitations](./bid-invitations.md)
 
 ---
 
